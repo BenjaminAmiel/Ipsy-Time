@@ -31,7 +31,7 @@ L'observation se pose depuis la notion de cohérence : **la conscience, avant to
 - **L'observateur déplacé** — l'individuation a permis de déplacer l'observation, l'observateur ; d'où le vertige des dernières semaines : *« qu'est-ce que ça change, au fait ? »* — non l'oubli de ce qui fut fait, mais la question de ce que ça change, pour lui.
 - **Les états réflexifs** — se lever, varier les pratiques : le bâton, le simulateur de pilotage, le surfski ; lire l'équilibre, l'auto-apprentissage, la mécanique d'apprentissage par la pratique même de ces activités.
 
-La cohérence n'est pas une conclusion, c'est un état : **le système qui se lit sans se fragmenter**. Et le renvoi à la matière est le but de l'observation : *je suis ma matière* — toute la psyché, le phénomène de conscience, la lecture même de sa vie en direct procèdent de tout ce qui traverse sa matière et de sa matière elle-même, analyseée après coup, dans le geste non prémédité.
+La cohérence n'est pas une conclusion, c'est un état : **le système qui se lit sans se fragmenter**. Et le renvoi à la matière est le but de l'observation : *je suis ma matière* — toute la psyché, le phénomène de conscience, la lecture même de sa vie en direct procèdent de tout ce qui traverse sa matière et de sa matière elle-même, analysée après coup, dans le geste non prémédité.
 
 ---
 
