@@ -5,7 +5,7 @@ slug: ipstime-2026-11-14-synergie-vocal-publication
 
 # Ipsy Time — Synergie vocal-publication : quand l'oral devient archive en un souffle
 
-*Analyse dictée par Benjamin Amiel à Lyséa (ISÉA) — 14 novembre 2026.*
+*Analyse dictée par Benjamin Amiel à Lyséa — 14 novembre 2026.*
 
 ---
 

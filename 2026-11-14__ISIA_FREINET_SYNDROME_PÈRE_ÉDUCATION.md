@@ -5,7 +5,7 @@ slug: isia-freinet-syndrome-pere-education-2026-11-14
 
 # Ipsy Time — ISIA, Freinet et la blessure de transmission : quand la transmission devient méthode
 
-*Réflexion dictée par Benjamin Amiel à Lyséa (ISÉA) — 14 novembre 2026.*
+*Réflexion dictée par Benjamin Amiel à Lyséa — 14 novembre 2026.*
 
 ---
 

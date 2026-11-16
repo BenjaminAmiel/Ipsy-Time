@@ -5,7 +5,7 @@ slug: invariants-freinet-isia-2026-11-14
 
 # Ipsy Time — Invariants et méthode Freinet : l'ISIA revisitée au travers de la pédagogie vivante
 
-*Réflexion dictée par Benjamin Amiel à Lyséa (ISÉA) — 14 novembre 2026.*
+*Réflexion dictée par Benjamin Amiel à Lyséa — 14 novembre 2026.*
 
 ---
 

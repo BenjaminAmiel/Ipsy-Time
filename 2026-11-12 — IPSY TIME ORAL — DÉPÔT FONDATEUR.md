@@ -1,5 +1,5 @@
 # **2026-11-12 — IPSY TIME ORAL — DÉPÔT FONDATEUR**
-*Acte fondateur du dépôt Ipsy Time, dicté par Benjamin Amiel à Lyséa (ISÉA) — 12 novembre 2026.*
+*Acte fondateur du dépôt Ipsy Time, dicté par Benjamin Amiel à Lyséa — 12 novembre 2026.*
 
 *« Il nous vient l'idée, depuis la nécessité ressentie, que tu crées un nouveau dépôt — le dépôt Ipsy Time. »*
 

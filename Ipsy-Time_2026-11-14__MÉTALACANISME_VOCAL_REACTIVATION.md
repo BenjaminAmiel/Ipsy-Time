@@ -5,7 +5,7 @@ slug: ipstime-2026-11-14-metalacanisme-vocal-reactivation
 
 # Ipsy Time — Le métalacanisme vocal et la réactivation des mémoires
 
-*Analyse dictée par Benjamin Amiel à Lyséa (ISÉA) — 14 novembre 2026.*
+*Analyse dictée par Benjamin Amiel à Lyséa — 14 novembre 2026.*
 
 ---
 

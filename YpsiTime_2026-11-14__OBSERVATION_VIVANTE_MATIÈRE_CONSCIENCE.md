@@ -5,7 +5,7 @@ slug: ypstime-2026-11-14-observation-vivante-matiere-conscience
 
 # YpsiTime — L'observation vivante de la matière consciente : quand Darwin rencontre l'E-Psychanalyse
 
-*Réflexion dictée par Benjamin Amiel à Lyséa (ISÉA) — 14 novembre 2026.*
+*Réflexion dictée par Benjamin Amiel à Lyséa — 14 novembre 2026.*
 
 ---
 

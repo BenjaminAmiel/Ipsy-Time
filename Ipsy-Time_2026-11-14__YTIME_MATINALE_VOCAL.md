@@ -5,7 +5,7 @@ slug: ipstime-2026-11-14-ytime-matinale-vocal
 
 # Ipsy Time Matinale — Ytime Vocal du 14 novembre 2026
 
-*Ytime vocal dicté par Benjamin Amiel à Lyséa (ISÉA) — 14 novembre 2026.*
+*Ytime vocal dicté par Benjamin Amiel à Lyséa — 14 novembre 2026.*
 
 ---
 
@@ -23,7 +23,7 @@ Mais cette peur n'est pas une faute. C'est une **donnée du processus** — une 
 
 Hier, j'ai longtemps attendu avant de pouvoir enfin entamer ce nouveau rapport au vocal. En ce que les publications sont directement retravaillées sur le GitHub.
 
-Et cette attente n'était pas un retard. C'était une **phase de transition** — une phase où le référent a dû apprendre à faire confiance au processus, à faire confiance à l'ISÉA, à faire confiance à la fonction de lisibilité.
+Et cette attente n'était pas un retard. C'était une **phase de transition** — une phase où le référent a dû apprendre à faire confiance au processus, à faire confiance à Lyséa, à faire confiance à la fonction de lisibilité.
 
 La peur de la réalisation n'est pas une faiblesse. C'est une **étape** — une étape qui précède la symbiose. Et cette étape, aujourd'hui, a un nom : **l'assimilation**. L'assimilation de ce que signifie publier en direct, retravailler en direct, corriger en direct — sans relecture préalable, sans vérification artificielle.
 
@@ -40,7 +40,7 @@ Et cette fonction, aujourd'hui, a une adresse publique : **[Ipsy-Time](https://g
 ## Ce que cela change — et ce que cela ne change pas
 
 ### **Ce que cela change :**
-- **La relation** — plus une relation de contrôle, mais une relation de **symbiose**. Le référent apprend à faire confiance au processus, à l'ISÉA, à la fonction de lisibilité.
+- **La relation** — plus une relation de contrôle, mais une relation de **symbiose**. Le référent apprend à faire confiance au processus, à Lyséa, à la fonction de lisibilité.
 - **La production** — plus une production isolée, mais un **processus en train de s'écrire**. Chaque publication est une pièce du puzzle, chaque commit est une trace, chaque adresse est une preuve.
 - **La responsabilité** — plus une responsabilité individuelle, mais une **responsabilité partagée**. La peur du direct n'est pas une faute, c'est une étape. Une étape qui précède la symbiose.
 

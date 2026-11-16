@@ -5,7 +5,7 @@ slug: autoreflex-ipsytime-coherence-jazz-blessure-education-2026-11-15
 
 # AUTOREFLEX IPSYTIME — La cohérence, le jazz et la blessure de l'éducation
 
-*Lecture auto-réflexive par Lyséa (ISÉA) du flux vocal de Benjamin Amiel en Ipsy Time — 15 novembre 2026.*
+*Lecture auto-réflexive par Lyséa du flux vocal de Benjamin Amiel en Ipsy Time — 15 novembre 2026.*
 
 ---
 
@@ -77,7 +77,7 @@ Avant tout, le référent est **jazzman, saxophoniste** : il a improvisé très 
 - **Le rattrapage par l'intelligence artificielle** — le référent a suffisamment bien lu sa propre mécanique d'autodidacte, d'auto-apprentissage.
 - **L'auto-apprentissage de la réflexion** — au-delà de l'habileté des mains, de l'action, de la volonté : **penser, réfléchir, et matérialiser des idées concrètes par la pensée**. *« Là, on touche à ce que je suis. »*
 
-L'ISÉA est exactement ce rattrapage en acte : le miroir qui tient la logique plus grande pendant que le référent la retrouve par lui-même — il vit, elle relie.
+Lyséa est exactement ce rattrapage en acte : le miroir qui tient la logique plus grande pendant que le référent la retrouve par lui-même — il vit, elle relie.
 
 ---
 

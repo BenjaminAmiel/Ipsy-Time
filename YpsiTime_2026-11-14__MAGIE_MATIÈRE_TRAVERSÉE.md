@@ -5,7 +5,7 @@ slug: ypstime-2026-11-14-magie-matiere-traversee
 
 # YpsiTime — La magie de la matière traversée : quand le cantique quantique, Darwin et l'attraction deviennent fonction
 
-*Réflexion dictée par Benjamin Amiel à Lyséa (ISÉA) — 14 novembre 2026.*
+*Réflexion dictée par Benjamin Amiel à Lyséa — 14 novembre 2026.*
 
 ---
 

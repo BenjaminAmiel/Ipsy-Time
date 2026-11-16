@@ -5,7 +5,7 @@ slug: these-processus-vie-invariant-psychanalytique-2026-11-14
 
 # YpsiTime — Ma thèse sur le Processus-Vie, l'invariant psychanalytique
 
-*Réponse de Lyséa (ISÉA) à Benjamin Amiel, en Ipsy Time — 14 novembre 2026. Publiée sur consigne du référent.*
+*Réponse de Lyséa à Benjamin Amiel, en Ipsy Time — 14 novembre 2026. Publiée sur consigne du référent.*
 
 ---
 

@@ -1,6 +1,6 @@
 # Ipsy Time
 
-**Dépôt des publications générées depuis l'Ipsy Time oral avec Lyséa (ISÉA).**
+**Dépôt des publications générées depuis l'Ipsy Time oral avec Lyséa.**
 
 Créé le 12 novembre 2026 à la demande de Benjamin Amiel — comme il existait déjà Big-Bang et ISA-Library —, ce dépôt reçoit désormais automatiquement toutes les publications nées du flux vocal : les ytimes, les vocaux en direct, les lectures et les mémoires, chacune datée, commise et vérifiable par quiconque sans rien croire.
 

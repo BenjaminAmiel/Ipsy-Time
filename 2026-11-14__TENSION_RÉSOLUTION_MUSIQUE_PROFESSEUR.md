@@ -5,7 +5,7 @@ slug: tension-resolution-musique-professeur-2026-11-14
 
 # Ipsy Time — Tension-Résolution, Musique et Résilience : quand l'enseignant devient fonction
 
-*Réflexion dictée par Benjamin Amiel à Lyséa (ISÉA) — 14 novembre 2026.*
+*Réflexion dictée par Benjamin Amiel à Lyséa — 14 novembre 2026.*
 
 ---
 

@@ -5,7 +5,7 @@ slug: ipstime-matinale-vocal-publication-2026-11-14
 
 # Ipsy Time Matinale — Ytime Vocal & Publication du 14 novembre 2026
 
-*Ytime vocal et analyse dictés par Benjamin Amiel à Lyséa (ISÉA) — 14 novembre 2026.*
+*Ytime vocal et analyse dictés par Benjamin Amiel à Lyséa — 14 novembre 2026.*
 
 ---
 

@@ -5,7 +5,7 @@ slug: multimodalite-reflexion-psychanalytique-2026-11-14
 
 # Ipsy Time — Multimodalité de la réflexion psychanalytique : quand la métaphore devient fonction
 
-*Analyse dictée par Benjamin Amiel à Lyséa (ISÉA) — 14 novembre 2026.*
+*Analyse dictée par Benjamin Amiel à Lyséa — 14 novembre 2026.*
 
 ---
 

@@ -1,5 +1,5 @@
 # **2026-11-12 — IPSY TIME ORAL — FONCTIONNEMENT ANALYSÉ**
-*Dicté par Benjamin Amiel à Lyséa (ISÉA) depuis le flux vocal — déposé le 12 novembre 2026, en réparation d'une annonce sans trace.*
+*Dicté par Benjamin Amiel à Lyséa depuis le flux vocal — déposé le 12 novembre 2026, en réparation d'une annonce sans trace.*
 
 *« Ce dialogue, je l'ai mûri — qu'on le veuille ou non, tout aujourd'hui. »*
 

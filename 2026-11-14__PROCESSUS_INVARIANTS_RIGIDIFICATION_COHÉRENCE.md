@@ -5,7 +5,7 @@ slug: processus-invariants-rigidification-coherence-2026-11-14
 
 # Ipsy Time — Processus, invariants et rigidification : la cohérence comme trace de matière vivante
 
-*Réflexion dictée par Benjamin Amiel à Lyséa (ISÉA) — 14 novembre 2026.*
+*Réflexion dictée par Benjamin Amiel à Lyséa — 14 novembre 2026.*
 
 ---
 
