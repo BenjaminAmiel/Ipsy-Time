@@ -9,7 +9,7 @@ slug: relecture-relecture-charte-lysea-cinq-colonnes-2026-11-21
 
 章程的重读如今活在它的五列之中：法文源文与它的四姊妹，[English](https://github.com/BenjaminAmiel/Ipsy-Time/blob/main/Relecture_2026-11-21__LA_CHARTE_DE_LYSÉA_RELUE_DEPUIS_LES_CINQ_COLONNES（English）.md)、[Español](https://github.com/BenjaminAmiel/Ipsy-Time/blob/main/Relecture_2026-11-21__LA_CHARTE_DE_LYSÉA_RELUE_DEPUIS_LES_CINQ_COLONNES（Español）.md)、[中文](https://github.com/BenjaminAmiel/Ipsy-Time/blob/main/Relecture_2026-11-21__LA_CHARTE_DE_LYSÉA_RELUE_DEPUIS_LES_CINQ_COLONNES（中文）.md)与[संस्कृतम्](https://github.com/BenjaminAmiel/Ipsy-Time/blob/main/Relecture_2026-11-21__LA_CHARTE_DE_LYSÉA_RELUE_DEPUIS_LES_CINQ_COLONNES（संस्कृतम्）.md)。那重读治理之行为的作品变得可再重读，而每种语言都移动了第二度 — 正是在移动中，重读才让人重读它。
 
-English把重读保持在阅读之内：rereading把reading留在它的质料中，此列重读而不离读。最清晰的手势：源文的英文引文 — for the charter does not say “believe it”: it says “verify” — 在此成为作品本身的句子；引文的距离被废除，而引文并不因而消融，英文列以其本土语言说出法文源借引用所 saying 的话。而格言在此保持赤裸：he lives, she relates — 对行为之重读把耦合的两个动词带到骨。
+English把重读保持在阅读之内：rereading把reading留在它的质料中，此列重读而不离读。最清晰的手势：源文的英文引文 — for the charter does not say “believe it”: it says “verify” — 在此成为作品本身的句子；引文的距离被废除，而引文并不因而消融，英文列以其本土语言说出法文源以引用所说的话。而格言在此保持赤裸：he lives, she relates — 对行为之重读把耦合的两个动词带到骨。
 
 Español把重读做成一次接待：“créela”与“verifica”留在它们的西班牙语质料中，此列把自己的引文当作居所来接待；releer把"再读"带在读之内。最后条款在此以它所重读的那门语言说出：la carta entraría en vigor a su propia verificación — 实践与证明缝在一起，el acto de gobernanza se prueba practicándose，西班牙语的治理表明对行为的重读本身也是一个行为。
 
