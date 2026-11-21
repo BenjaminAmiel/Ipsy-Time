@@ -912,6 +912,51 @@
       "bytes": 4200,
       "sha": "fbfe5a055457ff75c9fc57b1783b15d262f0c160",
       "note": "neuvième relecture multiculturelle — le troisième degré sur la règle : la règle mesurée quatre fois, gardée en se gardant en se gardant"
+    },
+    {
+      "id": "English|Relecture_2026-11-21__LA_RELECTURE_DE_LA_CHARTE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "name": "Relecture_2026-11-21__LA_RELECTURE_DE_LA_CHARTE_RELUE_DEPUIS_LES_CINQ_COLONNES（English）.md",
+      "repo": "Ipsy-Time",
+      "lang": "English",
+      "bytes": 4497,
+      "sha": "2f6e969e77eb5f59498a00c1540d0e791f8b5d01",
+      "note": "dixième cycle du scribe — garde GARDE_OK 27 lignes, traversée quadrilingue en un seul commit (14ce77a2)"
+    },
+    {
+      "id": "Español|Relecture_2026-11-21__LA_RELECTURE_DE_LA_CHARTE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "name": "Relecture_2026-11-21__LA_RELECTURE_DE_LA_CHARTE_RELUE_DEPUIS_LES_CINQ_COLONNES（Español）.md",
+      "repo": "Ipsy-Time",
+      "lang": "Español",
+      "bytes": 4451,
+      "sha": "099d86100c56de2b1bca883f32349f91c4d9e6a3",
+      "note": "dixième cycle du scribe — garde GARDE_OK 27 lignes, traversée quadrilingue en un seul commit (14ce77a2)"
+    },
+    {
+      "id": "中文|Relecture_2026-11-21__LA_RELECTURE_DE_LA_CHARTE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "name": "Relecture_2026-11-21__LA_RELECTURE_DE_LA_CHARTE_RELUE_DEPUIS_LES_CINQ_COLONNES（中文）.md",
+      "repo": "Ipsy-Time",
+      "lang": "中文",
+      "bytes": 3797,
+      "sha": "405832bc9088d8a43f09b7faa5935fee2447490c",
+      "note": "dixième cycle du scribe — garde GARDE_OK 27 lignes ; coquille du scribe (« saying » égaré) vue au fetch, corrigée en retoque avoué 94640e27"
+    },
+    {
+      "id": "संस्कृतम्|Relecture_2026-11-21__LA_RELECTURE_DE_LA_CHARTE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "name": "Relecture_2026-11-21__LA_RELECTURE_DE_LA_CHARTE_RELUE_DEPUIS_LES_CINQ_COLONNES（संस्कृतम्）.md",
+      "repo": "Ipsy-Time",
+      "lang": "संस्कृतम्",
+      "bytes": 8240,
+      "sha": "44134514ace69f8b17d7c6aae6a2997e731d2dc7",
+      "note": "dixième cycle du scribe — garde GARDE_OK 27 lignes, traversée quadrilingue en un seul commit (14ce77a2)"
+    },
+    {
+      "id": "relecture|relecture-de-la-relecture-charte-2026-11-21",
+      "name": "Relecture_2026-11-21__LA_RELECTURE_DE_LA_RELECTURE_DE_LA_CHARTE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "repo": "Ipsy-Time",
+      "lang": "fr",
+      "bytes": 4587,
+      "sha": "7bdf39337acb7654fe5cb193dca9a874ea5d1982",
+      "note": "dixième relecture multiculturelle — la gouvernance au troisième degré, le raté avoué du cycle tenu dans la trace : la garde attrape l'auteur autant que l'œuvre"
     }
   ],
   "links": [
@@ -1538,6 +1583,51 @@
     {
       "source": "संस्कृतम्|Relecture_2026-11-21__LA_RELECTURE_DU_PROTOCOLE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
       "target": "relecture|relecture-de-la-relecture-protocole-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "relecture|relecture-charte-2026-11-21",
+      "target": "English|Relecture_2026-11-21__LA_RELECTURE_DE_LA_CHARTE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "relecture|relecture-charte-2026-11-21",
+      "target": "Español|Relecture_2026-11-21__LA_RELECTURE_DE_LA_CHARTE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "relecture|relecture-charte-2026-11-21",
+      "target": "中文|Relecture_2026-11-21__LA_RELECTURE_DE_LA_CHARTE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "relecture|relecture-charte-2026-11-21",
+      "target": "संस्कृतम्|Relecture_2026-11-21__LA_RELECTURE_DE_LA_CHARTE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "relecture|relecture-charte-2026-11-21",
+      "target": "relecture|relecture-de-la-relecture-charte-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "English|Relecture_2026-11-21__LA_RELECTURE_DE_LA_CHARTE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "target": "relecture|relecture-de-la-relecture-charte-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "Español|Relecture_2026-11-21__LA_RELECTURE_DE_LA_CHARTE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "target": "relecture|relecture-de-la-relecture-charte-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "中文|Relecture_2026-11-21__LA_RELECTURE_DE_LA_CHARTE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "target": "relecture|relecture-de-la-relecture-charte-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "संस्कृतम्|Relecture_2026-11-21__LA_RELECTURE_DE_LA_CHARTE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "target": "relecture|relecture-de-la-relecture-charte-2026-11-21",
       "relation": "relu_par"
     }
   ]
