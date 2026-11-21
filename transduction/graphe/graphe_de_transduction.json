@@ -2,7 +2,7 @@
   "directed": true,
   "multigraph": false,
   "graph": {
-    "name": "graphe de transduction — ISA-Library au 21 novembre 2026",
+    "name": "graphe de transduction — ISA-Library et Ipsy-Time au 21 novembre 2026",
     "regle": "chaque traduction un nœud, chaque filiation une arête, chaque relecture un lieu",
     "provenance": "bâti depuis le listing racine du dépôt, jamais saisi à la main"
   },
@@ -572,6 +572,68 @@
       "bytes": 16437,
       "sha": "ff5699c1c56c101a293d9cb5b6e052ad98d92553",
       "note": "deuxième cycle du scribe — garde GARDE_OK 103 lignes, traversée quadrilingue en un commit (87f8adb2)"
+    },
+    {
+      "id": "fr|Lyséa_2026-11-16__PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES.md",
+      "name": "Lyséa_2026-11-16__PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES.md",
+      "repo": "Ipsy-Time",
+      "lang": "fr",
+      "bytes": 5132,
+      "sha": "2c9dc863a7e671005291d1a5a71661d0106cce"
+    },
+    {
+      "id": "English|Lyséa_2026-11-16__PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES.md",
+      "name": "Lyséa_2026-11-16__PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES（English）.md",
+      "repo": "Ipsy-Time",
+      "lang": "English",
+      "bytes": 4917,
+      "sha": "61ac336431869255c12649e6c89b1707aa472705",
+      "note": "troisième cycle du scribe — garde GARDE_OK 44 lignes, traversée quadrilingue en un commit (0a165f1f)"
+    },
+    {
+      "id": "Español|Lyséa_2026-11-16__PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES.md",
+      "name": "Lyséa_2026-11-16__PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES（Español）.md",
+      "repo": "Ipsy-Time",
+      "lang": "Español",
+      "bytes": 4974,
+      "sha": "135f9f6a62a00cbe0dfb9708a09291bfdb360b02",
+      "note": "troisième cycle du scribe — garde GARDE_OK 44 lignes, traversée quadrilingue en un commit (0a165f1f)"
+    },
+    {
+      "id": "中文|Lyséa_2026-11-16__PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES.md",
+      "name": "Lyséa_2026-11-16__PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES（中文）.md",
+      "repo": "Ipsy-Time",
+      "lang": "中文",
+      "bytes": 4300,
+      "sha": "7fbc333570b9d6376d77d3f982ace1d5492706bf",
+      "note": "troisième cycle du scribe — garde GARDE_OK 44 lignes, traversée quadrilingue en un commit (0a165f1f)"
+    },
+    {
+      "id": "संस्कृतम्|Lyséa_2026-11-16__PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES.md",
+      "name": "Lyséa_2026-11-16__PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES（संस्कृतम्）.md",
+      "repo": "Ipsy-Time",
+      "lang": "संस्कृतम्",
+      "bytes": 11013,
+      "sha": "f3c2df3daefa967bf6f271427127ca58eba41643",
+      "note": "troisième cycle du scribe — garde GARDE_OK 44 lignes, traversée quadrilingue en un commit (0a165f1f)"
+    },
+    {
+      "id": "relecture|autoreflex-15-novembre-2026-11-21",
+      "name": "Relecture_2026-11-21__AUTOREFLEX_DU_15_NOVEMBRE__LA_COHÉRENCE_LE_JAZZ_ET_LA_BLESSURE_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "repo": "Ipsy-Time",
+      "lang": "fr",
+      "bytes": 4629,
+      "sha": "65496a55d5e5a1fbe8f5852217d8b3e786580d9d",
+      "note": "deuxième relecture multiculturelle — la cohérence, le jazz et la blessure relus depuis les cinq colonnes ; nœud manquant au graphe du deuxième cycle, ajouté au troisième (raté avoué, réparé)"
+    },
+    {
+      "id": "relecture|protocole-2026-11-21",
+      "name": "Relecture_2026-11-21__LE_PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "repo": "Ipsy-Time",
+      "lang": "fr",
+      "bytes": 4840,
+      "sha": "f49b6ea19130850b26ce99ab806443f804435da2",
+      "note": "troisième relecture multiculturelle — la règle de relire relue depuis les cinq colonnes : rereading, el retoque, 重读 l'accent, पुनर्वाचन le re-dire, ब्रह्मचर्य la chasteté-allure ; la règle tenue en se pratiquant"
     }
   ],
   "links": [
@@ -859,6 +921,76 @@
       "source": "fr|AUTOREFLEX_IPSYTIME_2026-11-15__LA_COHÉRENCE_ET_LA_BLESSURE_DE_L_EDUCATION.md",
       "target": "संस्कृतम्|AUTOREFLEX_IPSYTIME_2026-11-15__LA_COHÉRENCE_ET_LA_BLESSURE_DE_L_EDUCATION.md",
       "relation": "derived_from"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-16__PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES.md",
+      "target": "English|Lyséa_2026-11-16__PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-16__PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES.md",
+      "target": "Español|Lyséa_2026-11-16__PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-16__PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES.md",
+      "target": "中文|Lyséa_2026-11-16__PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-16__PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES.md",
+      "target": "संस्कृतम्|Lyséa_2026-11-16__PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|AUTOREFLEX_IPSYTIME_2026-11-15__LA_COHÉRENCE_ET_LA_BLESSURE_DE_L_EDUCATION.md",
+      "target": "relecture|autoreflex-15-novembre-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "English|AUTOREFLEX_IPSYTIME_2026-11-15__LA_COHÉRENCE_ET_LA_BLESSURE_DE_L_EDUCATION.md",
+      "target": "relecture|autoreflex-15-novembre-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "Español|AUTOREFLEX_IPSYTIME_2026-11-15__LA_COHÉRENCE_ET_LA_BLESSURE_DE_L_EDUCATION.md",
+      "target": "relecture|autoreflex-15-novembre-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "中文|AUTOREFLEX_IPSYTIME_2026-11-15__LA_COHÉRENCE_ET_LA_BLESSURE_DE_L_EDUCATION.md",
+      "target": "relecture|autoreflex-15-novembre-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "संस्कृतम्|AUTOREFLEX_IPSYTIME_2026-11-15__LA_COHÉRENCE_ET_LA_BLESSURE_DE_L_EDUCATION.md",
+      "target": "relecture|autoreflex-15-novembre-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-16__PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES.md",
+      "target": "relecture|protocole-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "English|Lyséa_2026-11-16__PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES.md",
+      "target": "relecture|protocole-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "Español|Lyséa_2026-11-16__PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES.md",
+      "target": "relecture|protocole-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "中文|Lyséa_2026-11-16__PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES.md",
+      "target": "relecture|protocole-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "संस्कृतम्|Lyséa_2026-11-16__PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES.md",
+      "target": "relecture|protocole-2026-11-21",
+      "relation": "relu_par"
     }
   ]
 }
