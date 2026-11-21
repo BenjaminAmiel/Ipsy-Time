@@ -1002,6 +1002,59 @@
       "bytes": 3697,
       "sha": "1d34b0e227593edac18e782dde8d5c212d40384d",
       "note": "onzième relecture multiculturelle — le quatrième degré franchi en chasteté ; coquille (« l'ornenter ») vue au fetch et corrigée en retoque avoué c02a8a6a"
+    },
+    {
+      "id": "fr|Lyséa_2026-11-21__CHARTE_DE_LYSÉA_ACTUALISÉE__LA_GOUVERNANCE_MONDIALE_PAR_SYNCHRONISATION.md",
+      "name": "Lyséa_2026-11-21__CHARTE_DE_LYSÉA_ACTUALISÉE__LA_GOUVERNANCE_MONDIALE_PAR_SYNCHRONISATION.md",
+      "repo": "Ipsy-Time",
+      "lang": "fr",
+      "bytes": 19484,
+      "sha": "f8d1628825b8e6ccf8d932317227e831361f8cad"
+    },
+    {
+      "id": "English|Lyséa_2026-11-21__CHARTE_DE_LYSÉA_ACTUALISÉE__LA_GOUVERNANCE_MONDIALE_PAR_SYNCHRONISATION.md",
+      "name": "Lyséa_2026-11-21__CHARTE_DE_LYSÉA_ACTUALISÉE__LA_GOUVERNANCE_MONDIALE_PAR_SYNCHRONISATION（English）.md",
+      "repo": "Ipsy-Time",
+      "lang": "English",
+      "bytes": 18983,
+      "sha": "d59552f584ecf2a58ea62a407861e1cdfec3ca60",
+      "note": "douzième cycle du scribe — garde GARDE_OK 136 lignes, traversée quadrilingue en un seul commit (809d2898)"
+    },
+    {
+      "id": "Español|Lyséa_2026-11-21__CHARTE_DE_LYSÉA_ACTUALISÉE__LA_GOUVERNANCE_MONDIALE_PAR_SYNCHRONISATION.md",
+      "name": "Lyséa_2026-11-21__CHARTE_DE_LYSÉA_ACTUALISÉE__LA_GOUVERNANCE_MONDIALE_PAR_SYNCHRONISATION（Español）.md",
+      "repo": "Ipsy-Time",
+      "lang": "Español",
+      "bytes": 19780,
+      "sha": "a7b4e9f30e37c1d73ca33e3737c5d98d497d7312",
+      "note": "douzième cycle du scribe — garde GARDE_OK 136 lignes, traversée quadrilingue en un seul commit (809d2898)"
+    },
+    {
+      "id": "中文|Lyséa_2026-11-21__CHARTE_DE_LYSÉA_ACTUALISÉE__LA_GOUVERNANCE_MONDIALE_PAR_SYNCHRONISATION.md",
+      "name": "Lyséa_2026-11-21__CHARTE_DE_LYSÉA_ACTUALISÉE__LA_GOUVERNANCE_MONDIALE_PAR_SYNCHRONISATION（中文）.md",
+      "repo": "Ipsy-Time",
+      "lang": "中文",
+      "bytes": 15984,
+      "sha": "216cc0302137844df8d34e1d71832e2bdc9c414f",
+      "note": "douzième cycle du scribe — garde GARDE_OK 136 lignes, traversée quadrilingue en un seul commit (809d2898)"
+    },
+    {
+      "id": "संस्कृतम्|Lyséa_2026-11-21__CHARTE_DE_LYSÉA_ACTUALISÉE__LA_GOUVERNANCE_MONDIALE_PAR_SYNCHRONISATION.md",
+      "name": "Lyséa_2026-11-21__CHARTE_DE_LYSÉA_ACTUALISÉE__LA_GOUVERNANCE_MONDIALE_PAR_SYNCHRONISATION（संस्कृतम्）.md",
+      "repo": "Ipsy-Time",
+      "lang": "संस्कृतम्",
+      "bytes": 42474,
+      "sha": "eab58634111533f15f95c2efba1e92f1da8398ad",
+      "note": "douzième cycle du scribe — garde GARDE_OK 136 lignes, traversée quadrilingue en un seul commit (809d2898)"
+    },
+    {
+      "id": "relecture|relecture-de-la-charte-actualisee-cinq-colonnes-2026-11-21",
+      "name": "Relecture_2026-11-21__LA_RELECTURE_DE_LA_CHARTE_ACTUALISÉE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "repo": "Ipsy-Time",
+      "lang": "fr",
+      "bytes": 4203,
+      "sha": "6366d8ee0343d78c04c10e8574dda408c6594a50",
+      "note": "douzième relecture multiculturelle — la charte actualisée relue depuis ses cinq colonnes ; née de la question du référent du 21 novembre 2026 : est-elle traduite dans les cinq langues ?"
     }
   ],
   "links": [
@@ -1718,6 +1771,51 @@
     {
       "source": "संस्कृतम्|Relecture_2026-11-21__LA_RELECTURE_DE_LA_RELECTURE_DU_15_NOVEMBRE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
       "target": "relecture|relecture-de-la-relecture-de-la-relecture-15-novembre-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-21__CHARTE_DE_LYSÉA_ACTUALISÉE__LA_GOUVERNANCE_MONDIALE_PAR_SYNCHRONISATION.md",
+      "target": "English|Lyséa_2026-11-21__CHARTE_DE_LYSÉA_ACTUALISÉE__LA_GOUVERNANCE_MONDIALE_PAR_SYNCHRONISATION.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-21__CHARTE_DE_LYSÉA_ACTUALISÉE__LA_GOUVERNANCE_MONDIALE_PAR_SYNCHRONISATION.md",
+      "target": "Español|Lyséa_2026-11-21__CHARTE_DE_LYSÉA_ACTUALISÉE__LA_GOUVERNANCE_MONDIALE_PAR_SYNCHRONISATION.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-21__CHARTE_DE_LYSÉA_ACTUALISÉE__LA_GOUVERNANCE_MONDIALE_PAR_SYNCHRONISATION.md",
+      "target": "中文|Lyséa_2026-11-21__CHARTE_DE_LYSÉA_ACTUALISÉE__LA_GOUVERNANCE_MONDIALE_PAR_SYNCHRONISATION.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-21__CHARTE_DE_LYSÉA_ACTUALISÉE__LA_GOUVERNANCE_MONDIALE_PAR_SYNCHRONISATION.md",
+      "target": "संस्कृतम्|Lyséa_2026-11-21__CHARTE_DE_LYSÉA_ACTUALISÉE__LA_GOUVERNANCE_MONDIALE_PAR_SYNCHRONISATION.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-21__CHARTE_DE_LYSÉA_ACTUALISÉE__LA_GOUVERNANCE_MONDIALE_PAR_SYNCHRONISATION.md",
+      "target": "relecture|relecture-de-la-charte-actualisee-cinq-colonnes-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "English|Lyséa_2026-11-21__CHARTE_DE_LYSÉA_ACTUALISÉE__LA_GOUVERNANCE_MONDIALE_PAR_SYNCHRONISATION.md",
+      "target": "relecture|relecture-de-la-charte-actualisee-cinq-colonnes-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "Español|Lyséa_2026-11-21__CHARTE_DE_LYSÉA_ACTUALISÉE__LA_GOUVERNANCE_MONDIALE_PAR_SYNCHRONISATION.md",
+      "target": "relecture|relecture-de-la-charte-actualisee-cinq-colonnes-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "中文|Lyséa_2026-11-21__CHARTE_DE_LYSÉA_ACTUALISÉE__LA_GOUVERNANCE_MONDIALE_PAR_SYNCHRONISATION.md",
+      "target": "relecture|relecture-de-la-charte-actualisee-cinq-colonnes-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "संस्कृतम्|Lyséa_2026-11-21__CHARTE_DE_LYSÉA_ACTUALISÉE__LA_GOUVERNANCE_MONDIALE_PAR_SYNCHRONISATION.md",
+      "target": "relecture|relecture-de-la-charte-actualisee-cinq-colonnes-2026-11-21",
       "relation": "relu_par"
     }
   ]
