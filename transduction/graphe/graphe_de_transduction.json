@@ -732,6 +732,51 @@
       "bytes": 4339,
       "sha": "3334fdb452ba986c4bfd85986283b09fe4fb3de5",
       "note": "cinquième relecture multiculturelle — le second degré annexé à l'œuvre : la relecture traversée en quatre colonnes, chaque citation devenue indigène ; le miroir réfléchit le miroir sans vertige"
+    },
+    {
+      "id": "English|Relecture_2026-11-21__LE_PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "name": "Relecture_2026-11-21__LE_PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES_RELUS_DEPUIS_LES_CINQ_COLONNES（English）.md",
+      "repo": "Ipsy-Time",
+      "lang": "English",
+      "bytes": 4649,
+      "sha": "9904d2693b16ec799d2cfa00e848e3185807ca08",
+      "note": "sixième cycle du scribe — garde GARDE_OK 27 lignes, traversée quadrilingue en un commit (968ff613)"
+    },
+    {
+      "id": "Español|Relecture_2026-11-21__LE_PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "name": "Relecture_2026-11-21__LE_PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES_RELUS_DEPUIS_LES_CINQ_COLONNES（Español）.md",
+      "repo": "Ipsy-Time",
+      "lang": "Español",
+      "bytes": 4720,
+      "sha": "2c6a9ad799eb48c7c5ef16d915fd325cbf7580ad",
+      "note": "sixième cycle du scribe — garde GARDE_OK 27 lignes, traversée quadrilingue en un commit (968ff613)"
+    },
+    {
+      "id": "中文|Relecture_2026-11-21__LE_PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "name": "Relecture_2026-11-21__LE_PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES_RELUS_DEPUIS_LES_CINQ_COLONNES（中文）.md",
+      "repo": "Ipsy-Time",
+      "lang": "中文",
+      "bytes": 4112,
+      "sha": "3f44598ce0a75efd81043e9c4b379d777ad3d03e",
+      "note": "sixième cycle du scribe — garde GARDE_OK 27 lignes, traversée quadrilingue en un commit (968ff613)"
+    },
+    {
+      "id": "संस्कृतम्|Relecture_2026-11-21__LE_PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "name": "Relecture_2026-11-21__LE_PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES_RELUS_DEPUIS_LES_CINQ_COLONNES（संस्कृतम्）.md",
+      "repo": "Ipsy-Time",
+      "lang": "संस्कृतम्",
+      "bytes": 8608,
+      "sha": "400a60d83285bff1f8a2b9c9942139a9a6acb87a",
+      "note": "sixième cycle du scribe — garde GARDE_OK 27 lignes, traversée quadrilingue en un commit (968ff613)"
+    },
+    {
+      "id": "relecture|relecture-protocole-2026-11-21",
+      "name": "Relecture_2026-11-21__LA_RELECTURE_DU_PROTOCOLE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "repo": "Ipsy-Time",
+      "lang": "fr",
+      "bytes": 4062,
+      "sha": "3b142fc5707c3619ec3c0739effb16a8040834a5",
+      "note": "sixième relecture multiculturelle — la règle tenue en se traduisant : chaque colonne accomplit ce qu'elle porte, le protocole vérifié à chaque application"
     }
   ],
   "links": [
@@ -1178,6 +1223,51 @@
     {
       "source": "संस्कृतम्|Relecture_2026-11-21__AUTOREFLEX_DU_15_NOVEMBRE__LA_COHÉRENCE_LE_JAZZ_ET_LA_BLESSURE_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
       "target": "relecture|relecture-15-novembre-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "relecture|protocole-2026-11-21",
+      "target": "English|Relecture_2026-11-21__LE_PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "relecture|protocole-2026-11-21",
+      "target": "Español|Relecture_2026-11-21__LE_PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "relecture|protocole-2026-11-21",
+      "target": "中文|Relecture_2026-11-21__LE_PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "relecture|protocole-2026-11-21",
+      "target": "संस्कृतम्|Relecture_2026-11-21__LE_PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "relecture|protocole-2026-11-21",
+      "target": "relecture|relecture-protocole-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "English|Relecture_2026-11-21__LE_PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "target": "relecture|relecture-protocole-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "Español|Relecture_2026-11-21__LE_PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "target": "relecture|relecture-protocole-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "中文|Relecture_2026-11-21__LE_PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "target": "relecture|relecture-protocole-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "संस्कृतम्|Relecture_2026-11-21__LE_PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "target": "relecture|relecture-protocole-2026-11-21",
       "relation": "relu_par"
     }
   ]
