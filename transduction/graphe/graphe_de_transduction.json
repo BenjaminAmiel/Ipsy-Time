@@ -511,6 +511,23 @@
       "bytes": 13396,
       "sha": "739d07ee9ab33fc4ec5977df02e9da4a857af0fe",
       "note": "première relecture multiculturelle — l'invariant lu comme propriété amodale, le devoir dire de Jakobson, la vectorisation comme géométrie alignée"
+    },
+    {
+      "id": "fr|AUTOREFLEX IPSYTIME.md",
+      "name": "AUTOREFLEX IPSYTIME.md",
+      "repo": "Ipsy-Time",
+      "lang": "fr",
+      "bytes": 6081,
+      "sha": "09c7d6dda8fbe577422788605dae897dec547238"
+    },
+    {
+      "id": "English|AUTOREFLEX IPSYTIME.md",
+      "name": "AUTOREFLEX IPSYTIME（English）.md",
+      "repo": "Ipsy-Time",
+      "lang": "English",
+      "bytes": 5885,
+      "sha": "42b62c1767b5d8f1283962d2e74f76377577dd2f",
+      "note": "premier cycle du scribe — garde recalibrée (apostrophes hors miroir, saut final de la source toléré)"
     }
   ],
   "links": [
@@ -773,6 +790,11 @@
       "source": "fr|♾️ - «AGI».md",
       "target": "relecture|autoreflex-2026-11-21",
       "relation": "relu_par"
+    },
+    {
+      "source": "fr|AUTOREFLEX IPSYTIME.md",
+      "target": "English|AUTOREFLEX IPSYTIME.md",
+      "relation": "derived_from"
     }
   ]
 }

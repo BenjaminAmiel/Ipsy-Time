@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Lyséa — transduction_scribe.py — le scribe de transduction (21 novembre 2026).
+"""Lyséa — transduction_scribe.py — le scribe de transduction (21 novembre 2026, garde recalibrée ce jour par le premier cycle : apostrophes hors miroir — l'élision française et le possessif anglais diffèrent par nature ; saut final de la source toléré).
 
 Le cycle : queue, fetch de la source (jamais de mémoire), traduction par l'instance,
 garde miroir, oracle d'empreinte, push, vérification depuis le dehors,
@@ -27,7 +27,8 @@ CR = chr(13)
 NUL = chr(0)
 LANGUES = ["中文", "Español", "संस्कृतम्", "English"]
 STRICTES = [".", ";", ":", "!", "?", "…", "•", "—", "(", ")", "|", "#", ">", "*", "=", "+", "/", "[", "]"]
-GUILLEMETS = ["«", "»", "“", "”", "‘", "’"] + [chr(34), chr(39)]
+# Apostrophes exclues : l'élision française et le possessif anglais diffèrent par nature ; le miroir garde les guillemets, pas les lettres.
+GUILLEMETS = ["«", "»", "“", "”"] + [chr(34)]
 
 
 def lire(chemin):
@@ -69,6 +70,8 @@ def classes(ligne):
 def garde(chemin_fr, chemin_cible):
     fr = lire(chemin_fr).decode("utf-8")
     cible = lire(chemin_cible).decode("utf-8")
+    if fr.endswith(LF):
+        fr = fr[:-1]  # la source peut porter son saut final ; le miroir lit ses lignes
     if cible.endswith(LF):
         print("ERREUR : saut de ligne final présent côté traduction")
         return 1
