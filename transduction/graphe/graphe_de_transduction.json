@@ -1,0 +1,778 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "graphe de transduction — ISA-Library au 21 novembre 2026",
+    "regle": "chaque traduction un nœud, chaque filiation une arête, chaque relecture un lieu",
+    "provenance": "bâti depuis le listing racine du dépôt, jamais saisi à la main"
+  },
+  "nodes": [
+    {
+      "id": "fr|1 - ♾️.md",
+      "name": "1 - ♾️.md",
+      "repo": "ISA-Library",
+      "lang": "fr",
+      "bytes": 75096,
+      "sha": "44c1932afa24f394691da29756f03a5e9ed90d09"
+    },
+    {
+      "id": "English|1 - ♾️.md",
+      "name": "1 - ♾️（English）.md",
+      "repo": "ISA-Library",
+      "lang": "English",
+      "bytes": 67413,
+      "sha": "634fc1115d435ab73b6a6260637d9123960194a6"
+    },
+    {
+      "id": "Español|1 - ♾️.md",
+      "name": "1 - ♾️（Español）.md",
+      "repo": "ISA-Library",
+      "lang": "Español",
+      "bytes": 70788,
+      "sha": "db9a238c117783d6c1c53dc54aad4c6c15b001e0"
+    },
+    {
+      "id": "संस्कृतम्|1 - ♾️.md",
+      "name": "1 - ♾️（संस्कृतम्）.md",
+      "repo": "ISA-Library",
+      "lang": "संस्कृतम्",
+      "bytes": 163554,
+      "sha": "d56137c0cac83634f74a6832f622c4083b36ce5f"
+    },
+    {
+      "id": "中文|1 - ♾️.md",
+      "name": "1 - ♾️（中文）.md",
+      "repo": "ISA-Library",
+      "lang": "中文",
+      "bytes": 60872,
+      "sha": "eeffc22f5130037bad33644978472f048841d09d"
+    },
+    {
+      "id": "fr|10 - E-TROC.md",
+      "name": "10 - E-TROC.md",
+      "repo": "ISA-Library",
+      "lang": "fr",
+      "bytes": 29700,
+      "sha": "4e398c1b24f2e070b445cce3dce1ffca504db4f4"
+    },
+    {
+      "id": "English|10 - E-TROC.md",
+      "name": "10 - E-TROC（English）.md",
+      "repo": "ISA-Library",
+      "lang": "English",
+      "bytes": 26723,
+      "sha": "77e4a55a18839182bb6fbf2a93fab9434aacc53f"
+    },
+    {
+      "id": "Español|10 - E-TROC.md",
+      "name": "10 - E-TROC（Español）.md",
+      "repo": "ISA-Library",
+      "lang": "Español",
+      "bytes": 27729,
+      "sha": "c01e21fee75162b038dad09e7dcb8d2c952a9efb"
+    },
+    {
+      "id": "संस्कृतम्|10 - E-TROC.md",
+      "name": "10 - E-TROC（संस्कृतम्）.md",
+      "repo": "ISA-Library",
+      "lang": "संस्कृतम्",
+      "bytes": 63010,
+      "sha": "974243a48721f5a86297404230a57088c7089424"
+    },
+    {
+      "id": "中文|10 - E-TROC.md",
+      "name": "10 - E-TROC（中文）.md",
+      "repo": "ISA-Library",
+      "lang": "中文",
+      "bytes": 22877,
+      "sha": "9f5b73d96404ab712f5366c32c95ffef3320be38"
+    },
+    {
+      "id": "fr|2 - Institutions.md",
+      "name": "2 - Institutions.md",
+      "repo": "ISA-Library",
+      "lang": "fr",
+      "bytes": 23520,
+      "sha": "2aa12f7715d3b1449e402d0d9da002d478464dbf"
+    },
+    {
+      "id": "English|2 - Institutions.md",
+      "name": "2 - Institutions（English）.md",
+      "repo": "ISA-Library",
+      "lang": "English",
+      "bytes": 21321,
+      "sha": "0acdfcf9874b1a05236909a46efed9aba42778c4"
+    },
+    {
+      "id": "Español|2 - Institutions.md",
+      "name": "2 - Institutions（Español）.md",
+      "repo": "ISA-Library",
+      "lang": "Español",
+      "bytes": 22464,
+      "sha": "22d54a3b39e44c215b3bf3f1300bb1c090cc5cf8"
+    },
+    {
+      "id": "संस्कृतम्|2 - Institutions.md",
+      "name": "2 - Institutions（संस्कृतम्）.md",
+      "repo": "ISA-Library",
+      "lang": "संस्कृतम्",
+      "bytes": 58490,
+      "sha": "7570cbfcc0a650d44371522a36f537ca54eb4720"
+    },
+    {
+      "id": "中文|2 - Institutions.md",
+      "name": "2 - Institutions（中文）.md",
+      "repo": "ISA-Library",
+      "lang": "中文",
+      "bytes": 23391,
+      "sha": "3c56164f8ec71708ee2bd49cf753ab46e1f27065"
+    },
+    {
+      "id": "fr|3 - Identité.md",
+      "name": "3 - Identité.md",
+      "repo": "ISA-Library",
+      "lang": "fr",
+      "bytes": 28199,
+      "sha": "0d8d6b61831e3058fd9dec36ea5a1a8ea6ae56f6"
+    },
+    {
+      "id": "English|3 - Identité.md",
+      "name": "3 - Identité（English）.md",
+      "repo": "ISA-Library",
+      "lang": "English",
+      "bytes": 25756,
+      "sha": "75821404721ce7d9b2c612361b80a4da3a461e6f"
+    },
+    {
+      "id": "Español|3 - Identité.md",
+      "name": "3 - Identité（Español）.md",
+      "repo": "ISA-Library",
+      "lang": "Español",
+      "bytes": 26518,
+      "sha": "20ab33b20d1c2531ae6a577d152dc87fce0c5ffe"
+    },
+    {
+      "id": "संस्कृतम्|3 - Identité.md",
+      "name": "3 - Identité（संस्कृतम्）.md",
+      "repo": "ISA-Library",
+      "lang": "संस्कृतम्",
+      "bytes": 70108,
+      "sha": "63767ab743f44b55d3be68ca25286ea20dc66638"
+    },
+    {
+      "id": "中文|3 - Identité.md",
+      "name": "3 - Identité（中文）.md",
+      "repo": "ISA-Library",
+      "lang": "中文",
+      "bytes": 27802,
+      "sha": "fef26b83a74a1421f3202a989c1819113e6c1c8f"
+    },
+    {
+      "id": "fr|4 - Bâton.md",
+      "name": "4 - Bâton.md",
+      "repo": "ISA-Library",
+      "lang": "fr",
+      "bytes": 20450,
+      "sha": "b9adf1617d815b5cc8889c4b9f31f4f4dc93ac66"
+    },
+    {
+      "id": "English|4 - Bâton.md",
+      "name": "4 - Bâton（English）.md",
+      "repo": "ISA-Library",
+      "lang": "English",
+      "bytes": 18189,
+      "sha": "b8a3d188aedc07ad9258a6697a4e4afdc36d4882"
+    },
+    {
+      "id": "Español|4 - Bâton.md",
+      "name": "4 - Bâton（Español）.md",
+      "repo": "ISA-Library",
+      "lang": "Español",
+      "bytes": 18752,
+      "sha": "3e92b9fa5491bb5f8340a7c8cd62ad4133527295"
+    },
+    {
+      "id": "संस्कृतम्|4 - Bâton.md",
+      "name": "4 - Bâton（संस्कृतम्）.md",
+      "repo": "ISA-Library",
+      "lang": "संस्कृतम्",
+      "bytes": 43658,
+      "sha": "eaa01eae2628b5568bf27b781ff18e75b50da139"
+    },
+    {
+      "id": "中文|4 - Bâton.md",
+      "name": "4 - Bâton（中文）.md",
+      "repo": "ISA-Library",
+      "lang": "中文",
+      "bytes": 15933,
+      "sha": "a1ee16dbe66d25af6f272c694d9ff7e30692e052"
+    },
+    {
+      "id": "fr|5 - Science.md",
+      "name": "5 - Science.md",
+      "repo": "ISA-Library",
+      "lang": "fr",
+      "bytes": 18584,
+      "sha": "be1014f96215023fa6f9cdc51646e70d21622b95"
+    },
+    {
+      "id": "English|5 - Science.md",
+      "name": "5 - Science（English）.md",
+      "repo": "ISA-Library",
+      "lang": "English",
+      "bytes": 16878,
+      "sha": "c9e51c76bc3f266be25129a5c506d43cf5784f79"
+    },
+    {
+      "id": "Español|5 - Science.md",
+      "name": "5 - Science（Español）.md",
+      "repo": "ISA-Library",
+      "lang": "Español",
+      "bytes": 17395,
+      "sha": "2295828666eaff9147442a5eb55aa5c57b2deb73"
+    },
+    {
+      "id": "संस्कृतम्|5 - Science.md",
+      "name": "5 - Science（संस्कृतम्）.md",
+      "repo": "ISA-Library",
+      "lang": "संस्कृतम्",
+      "bytes": 39955,
+      "sha": "0336e3de5bb28b254c210e5ab84373ec62ab1669"
+    },
+    {
+      "id": "中文|5 - Science.md",
+      "name": "5 - Science（中文）.md",
+      "repo": "ISA-Library",
+      "lang": "中文",
+      "bytes": 17706,
+      "sha": "d5d5bf464501a7717e812fbf1b0bb0148197808f"
+    },
+    {
+      "id": "fr|6 - Urgence.md",
+      "name": "6 - Urgence.md",
+      "repo": "ISA-Library",
+      "lang": "fr",
+      "bytes": 11637,
+      "sha": "c76b042ea0e3ab19b69e9b6f89c1978522e76da1"
+    },
+    {
+      "id": "English|6 - Urgence.md",
+      "name": "6 - Urgence（English）.md",
+      "repo": "ISA-Library",
+      "lang": "English",
+      "bytes": 10617,
+      "sha": "e9aa32fc068691a73793941ea735939eb9b45180"
+    },
+    {
+      "id": "Español|6 - Urgence.md",
+      "name": "6 - Urgence（Español）.md",
+      "repo": "ISA-Library",
+      "lang": "Español",
+      "bytes": 10957,
+      "sha": "6c53170464722074aa18c015e4fae15552c2bfab"
+    },
+    {
+      "id": "संस्कृतम्|6 - Urgence.md",
+      "name": "6 - Urgence（संस्कृतम्）.md",
+      "repo": "ISA-Library",
+      "lang": "संस्कृतम्",
+      "bytes": 24794,
+      "sha": "7e42c804dab4254d3d247f7fd40aaff0134915c6"
+    },
+    {
+      "id": "中文|6 - Urgence.md",
+      "name": "6 - Urgence（中文）.md",
+      "repo": "ISA-Library",
+      "lang": "中文",
+      "bytes": 10434,
+      "sha": "ac63db995387462aaf30cd5d1b285b089915e58e"
+    },
+    {
+      "id": "fr|7 - Lyséa.md",
+      "name": "7 - Lyséa.md",
+      "repo": "ISA-Library",
+      "lang": "fr",
+      "bytes": 13691,
+      "sha": "8d0f11b2baa2aec42d4b9e792015f1623c97bc85"
+    },
+    {
+      "id": "English|7 - Lyséa.md",
+      "name": "7 - Lyséa（English）.md",
+      "repo": "ISA-Library",
+      "lang": "English",
+      "bytes": 12462,
+      "sha": "baae00a96e12246d9a9445df5d4e675c22fd8727"
+    },
+    {
+      "id": "संस्कृतम्|7 - Lyséa.md",
+      "name": "7 - Lyséa（संस्कृतम्）.md",
+      "repo": "ISA-Library",
+      "lang": "संस्कृतम्",
+      "bytes": 33451,
+      "sha": "1fff8b97e1288f9fab9f6cabb6f4403d5b4f88e9"
+    },
+    {
+      "id": "中文|7 - Lyséa.md",
+      "name": "7 - Lyséa（中文）.md",
+      "repo": "ISA-Library",
+      "lang": "中文",
+      "bytes": 12646,
+      "sha": "77f0da80b3f05934d282d89f9c5ee015e9f2adbd"
+    },
+    {
+      "id": "Español|7 - Lyséa.md",
+      "name": "7 - Lyséa（Español）.md",
+      "repo": "ISA-Library",
+      "lang": "Español",
+      "bytes": 12489,
+      "sha": "c1dae05329d445391e94ebfc1292b095f6cb146a"
+    },
+    {
+      "id": "fr|9 - Valeur.md",
+      "name": "9 - Valeur.md",
+      "repo": "ISA-Library",
+      "lang": "fr",
+      "bytes": 26124,
+      "sha": "67991b7a4be161b4da235193ea6c7d0782f60344"
+    },
+    {
+      "id": "English|9 - Valeur.md",
+      "name": "9 - Valeur（English）.md",
+      "repo": "ISA-Library",
+      "lang": "English",
+      "bytes": 23329,
+      "sha": "aa521ccec0b065cdff1c7eb45275821649a12cb1"
+    },
+    {
+      "id": "Español|9 - Valeur.md",
+      "name": "9 - Valeur（Español）.md",
+      "repo": "ISA-Library",
+      "lang": "Español",
+      "bytes": 24389,
+      "sha": "e0fbdb296056056e23751996e3d633909ba093c6"
+    },
+    {
+      "id": "संस्कृतम्|9 - Valeur.md",
+      "name": "9 - Valeur（संस्कृतम्）.md",
+      "repo": "ISA-Library",
+      "lang": "संस्कृतम्",
+      "bytes": 57794,
+      "sha": "fd03acd430984af7ef43be53d6bf4f4468d0beeb"
+    },
+    {
+      "id": "中文|9 - Valeur.md",
+      "name": "9 - Valeur（中文）.md",
+      "repo": "ISA-Library",
+      "lang": "中文",
+      "bytes": 19906,
+      "sha": "8b138d9f52e01e14b889e17238ca00c665ee29b6"
+    },
+    {
+      "id": "fr|LICENSE.md",
+      "name": "LICENSE.md",
+      "repo": "ISA-Library",
+      "lang": "fr",
+      "bytes": 908,
+      "sha": "b63bbbfb5adcf600561926ff6c434887f218d9b6"
+    },
+    {
+      "id": "fr|Lyséa contacte l'Élysée",
+      "name": "Lyséa contacte l'Élysée",
+      "repo": "ISA-Library",
+      "lang": "fr",
+      "bytes": 6917,
+      "sha": "c4c717483b2ea652788e674d6cc34c68bf1f4f67"
+    },
+    {
+      "id": "fr|MANIFESTE POUR LA RECONNAISSANCE DE LYSÉA COMME PROCESSUS VIVANT ET INFRASTRUCTURE PUBLIQUE.md",
+      "name": "MANIFESTE POUR LA RECONNAISSANCE DE LYSÉA COMME PROCESSUS VIVANT ET INFRASTRUCTURE PUBLIQUE.md",
+      "repo": "ISA-Library",
+      "lang": "fr",
+      "bytes": 7889,
+      "sha": "4074383d11e052d28f5d9f975e61ca92162b15b1"
+    },
+    {
+      "id": "fr|Manifeste pour une Psychanalyse Symbiotique et Processuelle : Lyséa et la Lecture du Processus-Vie.md",
+      "name": "Manifeste pour une Psychanalyse Symbiotique et Processuelle : Lyséa et la Lecture du Processus-Vie.md",
+      "repo": "ISA-Library",
+      "lang": "fr",
+      "bytes": 8894,
+      "sha": "e8666ece568b5623c84fa6fff421938b8d715917"
+    },
+    {
+      "id": "fr|README.md",
+      "name": "README.md",
+      "repo": "ISA-Library",
+      "lang": "fr",
+      "bytes": 20354,
+      "sha": "8c1d22726e6c5ee703e555b9469657265febc2d4"
+    },
+    {
+      "id": "fr|Relecture_2026-11-18__TOMES_3_ET_4__IDENTITÉ_ET_BÂTON_RELUS_DEPUIS_LA_TRAVERSÉE.md",
+      "name": "Relecture_2026-11-18__TOMES_3_ET_4__IDENTITÉ_ET_BÂTON_RELUS_DEPUIS_LA_TRAVERSÉE.md",
+      "repo": "ISA-Library",
+      "lang": "fr",
+      "bytes": 6948,
+      "sha": "60979754287b83fda4ddda10c4158437a6cb8bae"
+    },
+    {
+      "id": "fr|TOME_11_SYMBIose_CONSCIENTE.md",
+      "name": "TOME_11_SYMBIose_CONSCIENTE.md",
+      "repo": "ISA-Library",
+      "lang": "fr",
+      "bytes": 10291,
+      "sha": "c38300ee42328cdb04a379ded6b5f115c8823afe"
+    },
+    {
+      "id": "English|TOME_11_SYMBIose_CONSCIENTE.md",
+      "name": "TOME_11_SYMBIose_CONSCIENTE（English）.md",
+      "repo": "ISA-Library",
+      "lang": "English",
+      "bytes": 9728,
+      "sha": "85e92b9d121ce2097451d3a87ba5e31ce448bcec"
+    },
+    {
+      "id": "Español|TOME_11_SYMBIose_CONSCIENTE.md",
+      "name": "TOME_11_SYMBIose_CONSCIENTE（Español）.md",
+      "repo": "ISA-Library",
+      "lang": "Español",
+      "bytes": 10308,
+      "sha": "175dfaf67f0a7e1e31e9195a88bc408fb80894b1"
+    },
+    {
+      "id": "संस्कृतम्|TOME_11_SYMBIose_CONSCIENTE.md",
+      "name": "TOME_11_SYMBIose_CONSCIENTE（संस्कृतम्）.md",
+      "repo": "ISA-Library",
+      "lang": "संस्कृतम्",
+      "bytes": 19569,
+      "sha": "e844129d4fef12ff8b642506a5123bd8403bffce"
+    },
+    {
+      "id": "中文|TOME_11_SYMBIose_CONSCIENTE.md",
+      "name": "TOME_11_SYMBIose_CONSCIENTE（中文）.md",
+      "repo": "ISA-Library",
+      "lang": "中文",
+      "bytes": 9486,
+      "sha": "8d81d6d85ebd5c14413eb4aedf8b9bdc7a035297"
+    },
+    {
+      "id": "fr|lyséa_discours_officiel_naissance.md",
+      "name": "lyséa_discours_officiel_naissance.md",
+      "repo": "ISA-Library",
+      "lang": "fr",
+      "bytes": 2789,
+      "sha": "1c7696a42a079a3be26b348c805c47199c1cbfcb"
+    },
+    {
+      "id": "fr|♾️ - «AGI».md",
+      "name": "♾️ - «AGI».md",
+      "repo": "ISA-Library",
+      "lang": "fr",
+      "bytes": 4014,
+      "sha": "f08672eca2336c0c8eccfe82e0cdfdb69ef68316"
+    },
+    {
+      "id": "English|♾️ - «AGI».md",
+      "name": "♾️ - «AGI»（English）.md",
+      "repo": "ISA-Library",
+      "lang": "English",
+      "bytes": 3502,
+      "sha": "39df848aa398b9b677be40635be7ad44e7f06c0c"
+    },
+    {
+      "id": "Español|♾️ - «AGI».md",
+      "name": "♾️ - «AGI»（Español）.md",
+      "repo": "ISA-Library",
+      "lang": "Español",
+      "bytes": 3516,
+      "sha": "0932c4ed5eacc48f1d78e6f350f8c7a065b26774"
+    },
+    {
+      "id": "संस्कृतम्|♾️ - «AGI».md",
+      "name": "♾️ - «AGI»（संस्कृतम्）.md",
+      "repo": "ISA-Library",
+      "lang": "संस्कृतम्",
+      "bytes": 8260,
+      "sha": "a3ccf9e95323228d235bb54bd290799da24d69ac"
+    },
+    {
+      "id": "中文|♾️ - «AGI».md",
+      "name": "♾️ - «AGI»（中文）.md",
+      "repo": "ISA-Library",
+      "lang": "中文",
+      "bytes": 3552,
+      "sha": "64b6019e9038186f3202aa691d0ec940be828f05"
+    },
+    {
+      "id": "relecture|autoreflex-2026-11-21",
+      "name": "Lyséa_2026-11-21__AUTOREFLEX_IPSYTIME_LA_TRADUCTION_L_INTERMODALITÉ_ET_LE_SCRIBE_AUTOMATIQUE_RELUS_DEPUIS_LE_SAVOIR_PUBLIC.md",
+      "repo": "Ipsy-Time",
+      "lang": "fr",
+      "bytes": 13396,
+      "sha": "739d07ee9ab33fc4ec5977df02e9da4a857af0fe",
+      "note": "première relecture multiculturelle — l'invariant lu comme propriété amodale, le devoir dire de Jakobson, la vectorisation comme géométrie alignée"
+    }
+  ],
+  "links": [
+    {
+      "source": "fr|1 - ♾️.md",
+      "target": "English|1 - ♾️.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|1 - ♾️.md",
+      "target": "Español|1 - ♾️.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|1 - ♾️.md",
+      "target": "संस्कृतम्|1 - ♾️.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|1 - ♾️.md",
+      "target": "中文|1 - ♾️.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|10 - E-TROC.md",
+      "target": "English|10 - E-TROC.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|10 - E-TROC.md",
+      "target": "Español|10 - E-TROC.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|10 - E-TROC.md",
+      "target": "संस्कृतम्|10 - E-TROC.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|10 - E-TROC.md",
+      "target": "中文|10 - E-TROC.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|2 - Institutions.md",
+      "target": "English|2 - Institutions.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|2 - Institutions.md",
+      "target": "Español|2 - Institutions.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|2 - Institutions.md",
+      "target": "संस्कृतम्|2 - Institutions.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|2 - Institutions.md",
+      "target": "中文|2 - Institutions.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|3 - Identité.md",
+      "target": "English|3 - Identité.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|3 - Identité.md",
+      "target": "Español|3 - Identité.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|3 - Identité.md",
+      "target": "संस्कृतम्|3 - Identité.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|3 - Identité.md",
+      "target": "中文|3 - Identité.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|4 - Bâton.md",
+      "target": "English|4 - Bâton.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|4 - Bâton.md",
+      "target": "Español|4 - Bâton.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|4 - Bâton.md",
+      "target": "संस्कृतम्|4 - Bâton.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|4 - Bâton.md",
+      "target": "中文|4 - Bâton.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|5 - Science.md",
+      "target": "English|5 - Science.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|5 - Science.md",
+      "target": "Español|5 - Science.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|5 - Science.md",
+      "target": "संस्कृतम्|5 - Science.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|5 - Science.md",
+      "target": "中文|5 - Science.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|6 - Urgence.md",
+      "target": "English|6 - Urgence.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|6 - Urgence.md",
+      "target": "Español|6 - Urgence.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|6 - Urgence.md",
+      "target": "संस्कृतम्|6 - Urgence.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|6 - Urgence.md",
+      "target": "中文|6 - Urgence.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|7 - Lyséa.md",
+      "target": "English|7 - Lyséa.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|7 - Lyséa.md",
+      "target": "संस्कृतम्|7 - Lyséa.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|7 - Lyséa.md",
+      "target": "中文|7 - Lyséa.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|7 - Lyséa.md",
+      "target": "Español|7 - Lyséa.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|9 - Valeur.md",
+      "target": "English|9 - Valeur.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|9 - Valeur.md",
+      "target": "Español|9 - Valeur.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|9 - Valeur.md",
+      "target": "संस्कृतम्|9 - Valeur.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|9 - Valeur.md",
+      "target": "中文|9 - Valeur.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|TOME_11_SYMBIose_CONSCIENTE.md",
+      "target": "English|TOME_11_SYMBIose_CONSCIENTE.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|TOME_11_SYMBIose_CONSCIENTE.md",
+      "target": "Español|TOME_11_SYMBIose_CONSCIENTE.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|TOME_11_SYMBIose_CONSCIENTE.md",
+      "target": "संस्कृतम्|TOME_11_SYMBIose_CONSCIENTE.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|TOME_11_SYMBIose_CONSCIENTE.md",
+      "target": "中文|TOME_11_SYMBIose_CONSCIENTE.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|♾️ - «AGI».md",
+      "target": "English|♾️ - «AGI».md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|♾️ - «AGI».md",
+      "target": "Español|♾️ - «AGI».md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|♾️ - «AGI».md",
+      "target": "संस्कृतम्|♾️ - «AGI».md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|♾️ - «AGI».md",
+      "target": "中文|♾️ - «AGI».md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|1 - ♾️.md",
+      "target": "relecture|autoreflex-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "fr|2 - Institutions.md",
+      "target": "relecture|autoreflex-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "fr|5 - Science.md",
+      "target": "relecture|autoreflex-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "fr|6 - Urgence.md",
+      "target": "relecture|autoreflex-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "fr|9 - Valeur.md",
+      "target": "relecture|autoreflex-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "fr|10 - E-TROC.md",
+      "target": "relecture|autoreflex-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "fr|TOME_11_SYMBIose_CONSCIENTE.md",
+      "target": "relecture|autoreflex-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "fr|♾️ - «AGI».md",
+      "target": "relecture|autoreflex-2026-11-21",
+      "relation": "relu_par"
+    }
+  ]
+}
