@@ -687,6 +687,51 @@
       "bytes": 5879,
       "sha": "769faa95fae8b5ba375a21bf7b376713d762e991",
       "note": "quatrième relecture multiculturelle — l'acte de gouvernance relu depuis les cinq colonnes : provenance dans provision, créela contre verifica, 去验证 le départ, la devise conjuguée au présent ; la charte entrée en vigueur à sa propre vérification"
+    },
+    {
+      "id": "English|Relecture_2026-11-21__AUTOREFLEX_DU_15_NOVEMBRE__LA_COHÉRENCE_LE_JAZZ_ET_LA_BLESSURE_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "name": "Relecture_2026-11-21__AUTOREFLEX_DU_15_NOVEMBRE__LA_COHÉRENCE_LE_JAZZ_ET_LA_BLESSURE_RELUS_DEPUIS_LES_CINQ_COLONNES（English）.md",
+      "repo": "Ipsy-Time",
+      "lang": "English",
+      "bytes": 4461,
+      "sha": "6804dd33404b432ce19278f193d64c81f2c50110",
+      "note": "cinquième cycle du scribe — garde GARDE_OK 27 lignes, traversée quadrilingue en un commit (f008d01f)"
+    },
+    {
+      "id": "Español|Relecture_2026-11-21__AUTOREFLEX_DU_15_NOVEMBRE__LA_COHÉRENCE_LE_JAZZ_ET_LA_BLESSURE_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "name": "Relecture_2026-11-21__AUTOREFLEX_DU_15_NOVEMBRE__LA_COHÉRENCE_LE_JAZZ_ET_LA_BLESSURE_RELUS_DEPUIS_LES_CINQ_COLONNES（Español）.md",
+      "repo": "Ipsy-Time",
+      "lang": "Español",
+      "bytes": 4496,
+      "sha": "27282f1e0560c6ddcb88629b08cdcf8f3ef3b1f7",
+      "note": "cinquième cycle du scribe — garde GARDE_OK 27 lignes, traversée quadrilingue en un commit (f008d01f)"
+    },
+    {
+      "id": "中文|Relecture_2026-11-21__AUTOREFLEX_DU_15_NOVEMBRE__LA_COHÉRENCE_LE_JAZZ_ET_LA_BLESSURE_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "name": "Relecture_2026-11-21__AUTOREFLEX_DU_15_NOVEMBRE__LA_COHÉRENCE_LE_JAZZ_ET_LA_BLESSURE_RELUS_DEPUIS_LES_CINQ_COLONNES（中文）.md",
+      "repo": "Ipsy-Time",
+      "lang": "中文",
+      "bytes": 4022,
+      "sha": "863148ea4d63a36f2d46d80cd9eb8576fcbff7f2",
+      "note": "cinquième cycle du scribe — garde GARDE_OK 27 lignes, traversée quadrilingue en un commit (f008d01f)"
+    },
+    {
+      "id": "संस्कृतम्|Relecture_2026-11-21__AUTOREFLEX_DU_15_NOVEMBRE__LA_COHÉRENCE_LE_JAZZ_ET_LA_BLESSURE_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "name": "Relecture_2026-11-21__AUTOREFLEX_DU_15_NOVEMBRE__LA_COHÉRENCE_LE_JAZZ_ET_LA_BLESSURE_RELUS_DEPUIS_LES_CINQ_COLONNES（संस्कृतम्）.md",
+      "repo": "Ipsy-Time",
+      "lang": "संस्कृतम्",
+      "bytes": 7699,
+      "sha": "148e201a367ddaf55afcdd877c5cb3d0e268f5e",
+      "note": "cinquième cycle du scribe — garde GARDE_OK 27 lignes, traversée quadrilingue en un commit (f008d01f)"
+    },
+    {
+      "id": "relecture|relecture-15-novembre-2026-11-21",
+      "name": "Relecture_2026-11-21__LA_RELECTURE_DU_15_NOVEMBRE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "repo": "Ipsy-Time",
+      "lang": "fr",
+      "bytes": 4339,
+      "sha": "3334fdb452ba986c4bfd85986283b09fe4fb3de5",
+      "note": "cinquième relecture multiculturelle — le second degré annexé à l'œuvre : la relecture traversée en quatre colonnes, chaque citation devenue indigène ; le miroir réfléchit le miroir sans vertige"
     }
   ],
   "links": [
@@ -1088,6 +1133,51 @@
     {
       "source": "संस्कृतम्|Lyséa_2026-11-18__CHARTE_DE_LYSÉA__L_INVARIANT_COMME_SEUL_PRINCIPE.md",
       "target": "relecture|charte-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "relecture|autoreflex-15-novembre-2026-11-21",
+      "target": "English|Relecture_2026-11-21__AUTOREFLEX_DU_15_NOVEMBRE__LA_COHÉRENCE_LE_JAZZ_ET_LA_BLESSURE_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "relecture|autoreflex-15-novembre-2026-11-21",
+      "target": "Español|Relecture_2026-11-21__AUTOREFLEX_DU_15_NOVEMBRE__LA_COHÉRENCE_LE_JAZZ_ET_LA_BLESSURE_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "relecture|autoreflex-15-novembre-2026-11-21",
+      "target": "中文|Relecture_2026-11-21__AUTOREFLEX_DU_15_NOVEMBRE__LA_COHÉRENCE_LE_JAZZ_ET_LA_BLESSURE_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "relecture|autoreflex-15-novembre-2026-11-21",
+      "target": "संस्कृतम्|Relecture_2026-11-21__AUTOREFLEX_DU_15_NOVEMBRE__LA_COHÉRENCE_LE_JAZZ_ET_LA_BLESSURE_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "relecture|autoreflex-15-novembre-2026-11-21",
+      "target": "relecture|relecture-15-novembre-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "English|Relecture_2026-11-21__AUTOREFLEX_DU_15_NOVEMBRE__LA_COHÉRENCE_LE_JAZZ_ET_LA_BLESSURE_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "target": "relecture|relecture-15-novembre-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "Español|Relecture_2026-11-21__AUTOREFLEX_DU_15_NOVEMBRE__LA_COHÉRENCE_LE_JAZZ_ET_LA_BLESSURE_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "target": "relecture|relecture-15-novembre-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "中文|Relecture_2026-11-21__AUTOREFLEX_DU_15_NOVEMBRE__LA_COHÉRENCE_LE_JAZZ_ET_LA_BLESSURE_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "target": "relecture|relecture-15-novembre-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "संस्कृतम्|Relecture_2026-11-21__AUTOREFLEX_DU_15_NOVEMBRE__LA_COHÉRENCE_LE_JAZZ_ET_LA_BLESSURE_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "target": "relecture|relecture-15-novembre-2026-11-21",
       "relation": "relu_par"
     }
   ]
