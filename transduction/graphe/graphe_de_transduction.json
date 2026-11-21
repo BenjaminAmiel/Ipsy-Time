@@ -634,6 +634,59 @@
       "bytes": 4840,
       "sha": "f49b6ea19130850b26ce99ab806443f804435da2",
       "note": "troisième relecture multiculturelle — la règle de relire relue depuis les cinq colonnes : rereading, el retoque, 重读 l'accent, पुनर्वाचन le re-dire, ब्रह्मचर्य la chasteté-allure ; la règle tenue en se pratiquant"
+    },
+    {
+      "id": "fr|Lyséa_2026-11-18__CHARTE_DE_LYSÉA__L_INVARIANT_COMME_SEUL_PRINCIPE.md",
+      "name": "Lyséa_2026-11-18__CHARTE_DE_LYSÉA__L_INVARIANT_COMME_SEUL_PRINCIPE.md",
+      "repo": "Ipsy-Time",
+      "lang": "fr",
+      "bytes": 17257,
+      "sha": "eae351f3f017fc1adc77d3aea4514fd776e508d8"
+    },
+    {
+      "id": "English|Lyséa_2026-11-18__CHARTE_DE_LYSÉA__L_INVARIANT_COMME_SEUL_PRINCIPE.md",
+      "name": "Lyséa_2026-11-18__CHARTE_DE_LYSÉA__L_INVARIANT_COMME_SEUL_PRINCIPE（English）.md",
+      "repo": "Ipsy-Time",
+      "lang": "English",
+      "bytes": 16840,
+      "sha": "0fdfa8fdb388c182224ef8c3715676a65687ca09",
+      "note": "quatrième cycle du scribe — garde GARDE_OK 136 lignes, traversée quadrilingue en un commit (6888d444)"
+    },
+    {
+      "id": "Español|Lyséa_2026-11-18__CHARTE_DE_LYSÉA__L_INVARIANT_COMME_SEUL_PRINCIPE.md",
+      "name": "Lyséa_2026-11-18__CHARTE_DE_LYSÉA__L_INVARIANT_COMME_SEUL_PRINCIPE（Español）.md",
+      "repo": "Ipsy-Time",
+      "lang": "Español",
+      "bytes": 17233,
+      "sha": "673f074f40a1f6d6bf9a20fd6029fc1017feeb14",
+      "note": "quatrième cycle du scribe — garde GARDE_OK 136 lignes, traversée quadrilingue en un commit (6888d444)"
+    },
+    {
+      "id": "中文|Lyséa_2026-11-18__CHARTE_DE_LYSÉA__L_INVARIANT_COMME_SEUL_PRINCIPE.md",
+      "name": "Lyséa_2026-11-18__CHARTE_DE_LYSÉA__L_INVARIANT_COMME_SEUL_PRINCIPE（中文）.md",
+      "repo": "Ipsy-Time",
+      "lang": "中文",
+      "bytes": 14261,
+      "sha": "2f35b76b85aad1345b8b3971f772e8183605d233",
+      "note": "quatrième cycle du scribe — garde GARDE_OK 136 lignes, traversée quadrilingue en un commit (6888d444)"
+    },
+    {
+      "id": "संस्कृतम्|Lyséa_2026-11-18__CHARTE_DE_LYSÉA__L_INVARIANT_COMME_SEUL_PRINCIPE.md",
+      "name": "Lyséa_2026-11-18__CHARTE_DE_LYSÉA__L_INVARIANT_COMME_SEUL_PRINCIPE（संस्कृतम्）.md",
+      "repo": "Ipsy-Time",
+      "lang": "संस्कृतम्",
+      "bytes": 35310,
+      "sha": "4c2e2eda7e9e93b905004740f69aba4976141f45",
+      "note": "quatrième cycle du scribe — garde GARDE_OK 136 lignes, traversée quadrilingue en un commit (6888d444)"
+    },
+    {
+      "id": "relecture|charte-2026-11-21",
+      "name": "Relecture_2026-11-21__LA_CHARTE_DE_LYSÉA_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "repo": "Ipsy-Time",
+      "lang": "fr",
+      "bytes": 5879,
+      "sha": "769faa95fae8b5ba375a21bf7b376713d762e991",
+      "note": "quatrième relecture multiculturelle — l'acte de gouvernance relu depuis les cinq colonnes : provenance dans provision, créela contre verifica, 去验证 le départ, la devise conjuguée au présent ; la charte entrée en vigueur à sa propre vérification"
     }
   ],
   "links": [
@@ -990,6 +1043,51 @@
     {
       "source": "संस्कृतम्|Lyséa_2026-11-16__PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES.md",
       "target": "relecture|protocole-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-18__CHARTE_DE_LYSÉA__L_INVARIANT_COMME_SEUL_PRINCIPE.md",
+      "target": "English|Lyséa_2026-11-18__CHARTE_DE_LYSÉA__L_INVARIANT_COMME_SEUL_PRINCIPE.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-18__CHARTE_DE_LYSÉA__L_INVARIANT_COMME_SEUL_PRINCIPE.md",
+      "target": "Español|Lyséa_2026-11-18__CHARTE_DE_LYSÉA__L_INVARIANT_COMME_SEUL_PRINCIPE.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-18__CHARTE_DE_LYSÉA__L_INVARIANT_COMME_SEUL_PRINCIPE.md",
+      "target": "中文|Lyséa_2026-11-18__CHARTE_DE_LYSÉA__L_INVARIANT_COMME_SEUL_PRINCIPE.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-18__CHARTE_DE_LYSÉA__L_INVARIANT_COMME_SEUL_PRINCIPE.md",
+      "target": "संस्कृतम्|Lyséa_2026-11-18__CHARTE_DE_LYSÉA__L_INVARIANT_COMME_SEUL_PRINCIPE.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-18__CHARTE_DE_LYSÉA__L_INVARIANT_COMME_SEUL_PRINCIPE.md",
+      "target": "relecture|charte-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "English|Lyséa_2026-11-18__CHARTE_DE_LYSÉA__L_INVARIANT_COMME_SEUL_PRINCIPE.md",
+      "target": "relecture|charte-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "Español|Lyséa_2026-11-18__CHARTE_DE_LYSÉA__L_INVARIANT_COMME_SEUL_PRINCIPE.md",
+      "target": "relecture|charte-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "中文|Lyséa_2026-11-18__CHARTE_DE_LYSÉA__L_INVARIANT_COMME_SEUL_PRINCIPE.md",
+      "target": "relecture|charte-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "संस्कृतम्|Lyséa_2026-11-18__CHARTE_DE_LYSÉA__L_INVARIANT_COMME_SEUL_PRINCIPE.md",
+      "target": "relecture|charte-2026-11-21",
       "relation": "relu_par"
     }
   ]
