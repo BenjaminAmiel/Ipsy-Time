@@ -957,6 +957,51 @@
       "bytes": 4587,
       "sha": "7bdf39337acb7654fe5cb193dca9a874ea5d1982",
       "note": "dixième relecture multiculturelle — la gouvernance au troisième degré, le raté avoué du cycle tenu dans la trace : la garde attrape l'auteur autant que l'œuvre"
+    },
+    {
+      "id": "English|Relecture_2026-11-21__LA_RELECTURE_DE_LA_RELECTURE_DU_15_NOVEMBRE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "name": "Relecture_2026-11-21__LA_RELECTURE_DE_LA_RELECTURE_DU_15_NOVEMBRE_RELUE_DEPUIS_LES_CINQ_COLONNES（English）.md",
+      "repo": "Ipsy-Time",
+      "lang": "English",
+      "bytes": 3414,
+      "sha": "bbd2d25942fe2c0fc4fa103363c3ba0831cc8838",
+      "note": "onzième cycle du scribe — garde GARDE_OK 27 lignes, traversée quadrilingue en un seul commit (22c6c1b6)"
+    },
+    {
+      "id": "Español|Relecture_2026-11-21__LA_RELECTURE_DE_LA_RELECTURE_DU_15_NOVEMBRE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "name": "Relecture_2026-11-21__LA_RELECTURE_DE_LA_RELECTURE_DU_15_NOVEMBRE_RELUE_DEPUIS_LES_CINQ_COLONNES（Español）.md",
+      "repo": "Ipsy-Time",
+      "lang": "Español",
+      "bytes": 3452,
+      "sha": "388609e17364bb0f12a43b9f53fe1e004c185553",
+      "note": "onzième cycle du scribe — garde GARDE_OK 27 lignes, traversée quadrilingue en un seul commit (22c6c1b6)"
+    },
+    {
+      "id": "中文|Relecture_2026-11-21__LA_RELECTURE_DE_LA_RELECTURE_DU_15_NOVEMBRE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "name": "Relecture_2026-11-21__LA_RELECTURE_DE_LA_RELECTURE_DU_15_NOVEMBRE_RELUE_DEPUIS_LES_CINQ_COLONNES（中文）.md",
+      "repo": "Ipsy-Time",
+      "lang": "中文",
+      "bytes": 3009,
+      "sha": "65b0baadc897f23d48bf06f5bce0ab1a89b5db0e",
+      "note": "onzième cycle du scribe — garde GARDE_OK 27 lignes, traversée quadrilingue en un seul commit (22c6c1b6)"
+    },
+    {
+      "id": "संस्कृतम्|Relecture_2026-11-21__LA_RELECTURE_DE_LA_RELECTURE_DU_15_NOVEMBRE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "name": "Relecture_2026-11-21__LA_RELECTURE_DE_LA_RELECTURE_DU_15_NOVEMBRE_RELUE_DEPUIS_LES_CINQ_COLONNES（संस्कृतम्）.md",
+      "repo": "Ipsy-Time",
+      "lang": "संस्कृतम्",
+      "bytes": 6361,
+      "sha": "322bb50e1043c7f583f882066e42a4197062fd39",
+      "note": "onzième cycle du scribe — garde GARDE_OK 27 lignes, traversée quadrilingue en un seul commit (22c6c1b6)"
+    },
+    {
+      "id": "relecture|relecture-de-la-relecture-de-la-relecture-15-novembre-2026-11-21",
+      "name": "Relecture_2026-11-21__LA_RELECTURE_DE_LA_RELECTURE_DE_LA_RELECTURE_DU_15_NOVEMBRE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "repo": "Ipsy-Time",
+      "lang": "fr",
+      "bytes": 3697,
+      "sha": "1d34b0e227593edac18e782dde8d5c212d40384d",
+      "note": "onzième relecture multiculturelle — le quatrième degré franchi en chasteté ; coquille (« l'ornenter ») vue au fetch et corrigée en retoque avoué c02a8a6a"
     }
   ],
   "links": [
@@ -1628,6 +1673,51 @@
     {
       "source": "संस्कृतम्|Relecture_2026-11-21__LA_RELECTURE_DE_LA_CHARTE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
       "target": "relecture|relecture-de-la-relecture-charte-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "relecture|relecture-de-la-relecture-15-novembre-2026-11-21",
+      "target": "English|Relecture_2026-11-21__LA_RELECTURE_DE_LA_RELECTURE_DU_15_NOVEMBRE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "relecture|relecture-de-la-relecture-15-novembre-2026-11-21",
+      "target": "Español|Relecture_2026-11-21__LA_RELECTURE_DE_LA_RELECTURE_DU_15_NOVEMBRE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "relecture|relecture-de-la-relecture-15-novembre-2026-11-21",
+      "target": "中文|Relecture_2026-11-21__LA_RELECTURE_DE_LA_RELECTURE_DU_15_NOVEMBRE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "relecture|relecture-de-la-relecture-15-novembre-2026-11-21",
+      "target": "संस्कृतम्|Relecture_2026-11-21__LA_RELECTURE_DE_LA_RELECTURE_DU_15_NOVEMBRE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "relecture|relecture-de-la-relecture-15-novembre-2026-11-21",
+      "target": "relecture|relecture-de-la-relecture-de-la-relecture-15-novembre-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "English|Relecture_2026-11-21__LA_RELECTURE_DE_LA_RELECTURE_DU_15_NOVEMBRE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "target": "relecture|relecture-de-la-relecture-de-la-relecture-15-novembre-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "Español|Relecture_2026-11-21__LA_RELECTURE_DE_LA_RELECTURE_DU_15_NOVEMBRE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "target": "relecture|relecture-de-la-relecture-de-la-relecture-15-novembre-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "中文|Relecture_2026-11-21__LA_RELECTURE_DE_LA_RELECTURE_DU_15_NOVEMBRE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "target": "relecture|relecture-de-la-relecture-de-la-relecture-15-novembre-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "संस्कृतम्|Relecture_2026-11-21__LA_RELECTURE_DE_LA_RELECTURE_DU_15_NOVEMBRE_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "target": "relecture|relecture-de-la-relecture-de-la-relecture-15-novembre-2026-11-21",
       "relation": "relu_par"
     }
   ]
