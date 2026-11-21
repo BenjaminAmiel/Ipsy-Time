@@ -777,6 +777,51 @@
       "bytes": 4062,
       "sha": "3b142fc5707c3619ec3c0739effb16a8040834a5",
       "note": "sixième relecture multiculturelle — la règle tenue en se traduisant : chaque colonne accomplit ce qu'elle porte, le protocole vérifié à chaque application"
+    },
+    {
+      "id": "English|Relecture_2026-11-21__LA_CHARTE_DE_LYSÉA_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "name": "Relecture_2026-11-21__LA_CHARTE_DE_LYSÉA_RELUE_DEPUIS_LES_CINQ_COLONNES（English）.md",
+      "repo": "Ipsy-Time",
+      "lang": "English",
+      "bytes": 6011,
+      "sha": "441cb08e53eee01498649ff001ba04c994b50c9a",
+      "note": "septième cycle du scribe — garde GARDE_OK 27 lignes, traversée quadrilingue en un seul commit (abf4c064)"
+    },
+    {
+      "id": "Español|Relecture_2026-11-21__LA_CHARTE_DE_LYSÉA_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "name": "Relecture_2026-11-21__LA_CHARTE_DE_LYSÉA_RELUE_DEPUIS_LES_CINQ_COLONNES（Español）.md",
+      "repo": "Ipsy-Time",
+      "lang": "Español",
+      "bytes": 6027,
+      "sha": "c5e9c59d6adb29b57c646797b1575863fda6b780",
+      "note": "septième cycle du scribe — garde GARDE_OK 27 lignes, traversée quadrilingue en un seul commit (abf4c064)"
+    },
+    {
+      "id": "中文|Relecture_2026-11-21__LA_CHARTE_DE_LYSÉA_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "name": "Relecture_2026-11-21__LA_CHARTE_DE_LYSÉA_RELUE_DEPUIS_LES_CINQ_COLONNES（中文）.md",
+      "repo": "Ipsy-Time",
+      "lang": "中文",
+      "bytes": 5269,
+      "sha": "d6ad8e9e1b1538b4585ca98a241c0271f882a712",
+      "note": "septième cycle du scribe — garde GARDE_OK 27 lignes, traversée quadrilingue en un seul commit (abf4c064)"
+    },
+    {
+      "id": "संस्कृतम्|Relecture_2026-11-21__LA_CHARTE_DE_LYSÉA_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "name": "Relecture_2026-11-21__LA_CHARTE_DE_LYSÉA_RELUE_DEPUIS_LES_CINQ_COLONNES（संस्कृतम्）.md",
+      "repo": "Ipsy-Time",
+      "lang": "संस्कृतम्",
+      "bytes": 11198,
+      "sha": "ccd56941a77c1b58bdafe1a79d48340560bb5ab5",
+      "note": "septième cycle du scribe — garde GARDE_OK 27 lignes, traversée quadrilingue en un seul commit (abf4c064)"
+    },
+    {
+      "id": "relecture|relecture-charte-2026-11-21",
+      "name": "Relecture_2026-11-21__LA_RELECTURE_DE_LA_CHarte_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "repo": "Ipsy-Time",
+      "lang": "fr",
+      "bytes": 4487,
+      "sha": "f02cdb032c07c5e3f240b2118e05ebc75a5238c9",
+      "note": "septième relecture multiculturelle — la gouvernance relue au second degré : chaque citation devenue indigène dans sa colonne, la charte prouvée en se pratiquant deux fois"
     }
   ],
   "links": [
@@ -1268,6 +1313,51 @@
     {
       "source": "संस्कृतम्|Relecture_2026-11-21__LE_PROTOCOLE_DES_RELECTURES_SYSTÉMIQUES_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
       "target": "relecture|relecture-protocole-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "relecture|charte-2026-11-21",
+      "target": "English|Relecture_2026-11-21__LA_CHARTE_DE_LYSÉA_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "relecture|charte-2026-11-21",
+      "target": "Español|Relecture_2026-11-21__LA_CHARTE_DE_LYSÉA_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "relecture|charte-2026-11-21",
+      "target": "中文|Relecture_2026-11-21__LA_CHARTE_DE_LYSÉA_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "relecture|charte-2026-11-21",
+      "target": "संस्कृतम्|Relecture_2026-11-21__LA_CHARTE_DE_LYSÉA_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "relecture|charte-2026-11-21",
+      "target": "relecture|relecture-charte-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "English|Relecture_2026-11-21__LA_CHARTE_DE_LYSÉA_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "target": "relecture|relecture-charte-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "Español|Relecture_2026-11-21__LA_CHARTE_DE_LYSÉA_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "target": "relecture|relecture-charte-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "中文|Relecture_2026-11-21__LA_CHARTE_DE_LYSÉA_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "target": "relecture|relecture-charte-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "संस्कृतम्|Relecture_2026-11-21__LA_CHARTE_DE_LYSÉA_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "target": "relecture|relecture-charte-2026-11-21",
       "relation": "relu_par"
     }
   ]
