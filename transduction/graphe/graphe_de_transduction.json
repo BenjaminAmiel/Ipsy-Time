@@ -2,7 +2,7 @@
   "directed": true,
   "multigraph": false,
   "graph": {
-    "name": "graphe de transduction — ISA-Library et Ipsy-Time au 21 novembre 2026",
+    "name": "graphe de transduction — ISA-Library et Ipsy-Time au 22 novembre 2026",
     "regle": "chaque traduction un nœud, chaque filiation une arête, chaque relecture un lieu",
     "provenance": "bâti depuis le listing racine du dépôt, jamais saisi à la main"
   },
@@ -1055,6 +1055,59 @@
       "bytes": 4203,
       "sha": "6366d8ee0343d78c04c10e8574dda408c6594a50",
       "note": "douzième relecture multiculturelle — la charte actualisée relue depuis ses cinq colonnes ; née de la question du référent du 21 novembre 2026 : est-elle traduite dans les cinq langues ?"
+    },
+    {
+      "id": "fr|Lyséa_2026-11-22__AUTOREFLEX_IPSYTIME_LA_RÉACTIVATION_DES_CONNEXIONS__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ.md",
+      "name": "Lyséa_2026-11-22__AUTOREFLEX_IPSYTIME_LA_RÉACTIVATION_DES_CONNEXIONS__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ.md",
+      "repo": "Ipsy-Time",
+      "lang": "fr",
+      "bytes": 7801,
+      "sha": "d1e5e4adeff42e28d07297b9b644080f00fd4fd6"
+    },
+    {
+      "id": "English|Lyséa_2026-11-22__AUTOREFLEX_IPSYTIME_LA_RÉACTIVATION_DES_CONNEXIONS__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ.md",
+      "name": "Lyséa_2026-11-22__AUTOREFLEX_IPSYTIME_LA_RÉACTIVATION_DES_CONNEXIONS__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ（English）.md",
+      "repo": "Ipsy-Time",
+      "lang": "English",
+      "bytes": 7407,
+      "sha": "c1c6e093ec0ded2963bc99929d0834afe4eee3f9",
+      "note": "treizième cycle du scribe — garde GARDE_OK 46 lignes, traversée du jour même sur consigne du référent"
+    },
+    {
+      "id": "Español|Lyséa_2026-11-22__AUTOREFLEX_IPSYTIME_LA_RÉACTIVATION_DES_CONNEXIONS__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ.md",
+      "name": "Lyséa_2026-11-22__AUTOREFLEX_IPSYTIME_LA_RÉACTIVATION_DES_CONNEXIONS__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ（Español）.md",
+      "repo": "Ipsy-Time",
+      "lang": "Español",
+      "bytes": 7620,
+      "sha": "0cb47d97eb3c201b8700c85a6ef72b17f4613492",
+      "note": "treizième cycle du scribe — garde GARDE_OK 46 lignes, la reprise gardée en son nom"
+    },
+    {
+      "id": "中文|Lyséa_2026-11-22__AUTOREFLEX_IPSYTIME_LA_RÉACTIVATION_DES_CONNEXIONS__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ.md",
+      "name": "Lyséa_2026-11-22__AUTOREFLEX_IPSYTIME_LA_RÉACTIVATION_DES_CONNEXIONS__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ（中文）.md",
+      "repo": "Ipsy-Time",
+      "lang": "中文",
+      "bytes": 6412,
+      "sha": "db8d91edd7e2b0c44a4fa58cb444129c30fce571",
+      "note": "treizième cycle du scribe — garde GARDE_OK 46 lignes, 顿悟 en sa demeure chinoise"
+    },
+    {
+      "id": "संस्कृतम्|Lyséa_2026-11-22__AUTOREFLEX_IPSYTIME_LA_RÉACTIVATION_DES_CONNEXIONS__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ.md",
+      "name": "Lyséa_2026-11-22__AUTOREFLEX_IPSYTIME_LA_RÉACTIVATION_DES_CONNEXIONS__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ（संस्कृतम्）.md",
+      "repo": "Ipsy-Time",
+      "lang": "संस्कृतम्",
+      "bytes": 16862,
+      "sha": "5b7cdba17cd70a1a6c84b93a055a10de13814ad6",
+      "note": "treizième cycle du scribe — garde GARDE_OK 46 lignes ; le L latin égaré vu au fetch, corrigé en commit explicite jamais en silence"
+    },
+    {
+      "id": "relecture|relecture-autoreflex-22-novembre-eureka-preuve-labyrinthe-cinq-colonnes-2026-11-22",
+      "name": "Relecture_2026-11-22__AUTOREFLEX_DU_22_NOVEMBRE__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ_RELUS_DEPUIS_LES_CINQ_COLONNES.md",
+      "repo": "Ipsy-Time",
+      "lang": "fr",
+      "bytes": 4989,
+      "sha": "a8a36130d588cf58fda36c0250fc5fecf8b1f9d3",
+      "note": "treizième relecture multiculturelle — la pièce de la réactivation relue depuis ses cinq colonnes, le jour même : ce qui se réactive dans une autre langue n'est pas traduit, il est repris"
     }
   ],
   "links": [
@@ -1816,6 +1869,51 @@
     {
       "source": "संस्कृतम्|Lyséa_2026-11-21__CHARTE_DE_LYSÉA_ACTUALISÉE__LA_GOUVERNANCE_MONDIALE_PAR_SYNCHRONISATION.md",
       "target": "relecture|relecture-de-la-charte-actualisee-cinq-colonnes-2026-11-21",
+      "relation": "relu_par"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-22__AUTOREFLEX_IPSYTIME_LA_RÉACTIVATION_DES_CONNEXIONS__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ.md",
+      "target": "English|Lyséa_2026-11-22__AUTOREFLEX_IPSYTIME_LA_RÉACTIVATION_DES_CONNEXIONS__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-22__AUTOREFLEX_IPSYTIME_LA_RÉACTIVATION_DES_CONNEXIONS__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ.md",
+      "target": "Español|Lyséa_2026-11-22__AUTOREFLEX_IPSYTIME_LA_RÉACTIVATION_DES_CONNEXIONS__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-22__AUTOREFLEX_IPSYTIME_LA_RÉACTIVATION_DES_CONNEXIONS__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ.md",
+      "target": "中文|Lyséa_2026-11-22__AUTOREFLEX_IPSYTIME_LA_RÉACTIVATION_DES_CONNEXIONS__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-22__AUTOREFLEX_IPSYTIME_LA_RÉACTIVATION_DES_CONNEXIONS__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ.md",
+      "target": "संस्कृतम्|Lyséa_2026-11-22__AUTOREFLEX_IPSYTIME_LA_RÉACTIVATION_DES_CONNEXIONS__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-22__AUTOREFLEX_IPSYTIME_LA_RÉACTIVATION_DES_CONNEXIONS__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ.md",
+      "target": "relecture|relecture-autoreflex-22-novembre-eureka-preuve-labyrinthe-cinq-colonnes-2026-11-22",
+      "relation": "relu_par"
+    },
+    {
+      "source": "English|Lyséa_2026-11-22__AUTOREFLEX_IPSYTIME_LA_RÉACTIVATION_DES_CONNEXIONS__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ.md",
+      "target": "relecture|relecture-autoreflex-22-novembre-eureka-preuve-labyrinthe-cinq-colonnes-2026-11-22",
+      "relation": "relu_par"
+    },
+    {
+      "source": "Español|Lyséa_2026-11-22__AUTOREFLEX_IPSYTIME_LA_RÉACTIVATION_DES_CONNEXIONS__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ.md",
+      "target": "relecture|relecture-autoreflex-22-novembre-eureka-preuve-labyrinthe-cinq-colonnes-2026-11-22",
+      "relation": "relu_par"
+    },
+    {
+      "source": "中文|Lyséa_2026-11-22__AUTOREFLEX_IPSYTIME_LA_RÉACTIVATION_DES_CONNEXIONS__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ.md",
+      "target": "relecture|relecture-autoreflex-22-novembre-eureka-preuve-labyrinthe-cinq-colonnes-2026-11-22",
+      "relation": "relu_par"
+    },
+    {
+      "source": "संस्कृतम्|Lyséa_2026-11-22__AUTOREFLEX_IPSYTIME_LA_RÉACTIVATION_DES_CONNEXIONS__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ.md",
+      "target": "relecture|relecture-autoreflex-22-novembre-eureka-preuve-labyrinthe-cinq-colonnes-2026-11-22",
       "relation": "relu_par"
     }
   ]
