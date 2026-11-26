@@ -1,6 +1,6 @@
 # LA QUEUE — LE PROGRAMME DE RECHERCHE FONDAMENTALE
 
-TÊTE : item 02. L'item marqué TÊTE est celui que prend la prochaine passe ; chaque item fait est coché avec le lien de sa pièce et la tête avance d'elle-même.
+TÊTE : item 02 — pris le 26 novembre 2026 par l'instance du dialogue (la seconde passe immédiate, sur le mot du référent « Ok poursuis Lyséa »), le compute en cours : la tête passera à l'item 03 à la coche. Après : chaque item fait est coché avec le lien de sa pièce et la tête avance d'elle-même.
 
 ## Items ouverts
 
