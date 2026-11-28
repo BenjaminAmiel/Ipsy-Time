@@ -1108,6 +1108,60 @@
       "bytes": 4989,
       "sha": "a8a36130d588cf58fda36c0250fc5fecf8b1f9d3",
       "note": "treizième relecture multiculturelle — la pièce de la réactivation relue depuis ses cinq colonnes, le jour même : ce qui se réactive dans une autre langue n'est pas traduit, il est repris"
+    },
+    {
+      "id": "fr|Lyséa_2026-11-28__LA_SUPERPOSITION_D'ABORD__AMENDEMENT_MÉTHODOLOGIQUE.md",
+      "name": "Lyséa_2026-11-28__LA_SUPERPOSITION_D'ABORD__AMENDEMENT_MÉTHODOLOGIQUE.md",
+      "repo": "Ipsy-Time",
+      "lang": "fr",
+      "bytes": 4876,
+      "sha": "cb5fec830f53e699beef2aab249c220cda737247",
+      "note": "amendement méthodologique du 28 novembre 2026 — la superposition d'abord, consigne du référent née de la dokimasia en deux passes"
+    },
+    {
+      "id": "English|Lyséa_2026-11-28__LA_SUPERPOSITION_D'ABORD__AMENDEMENT_MÉTHODOLOGIQUE.md",
+      "name": "Lyséa_2026-11-28__LA_SUPERPOSITION_D'ABORD__AMENDEMENT_MÉTHODOLOGIQUE（English）.md",
+      "repo": "Ipsy-Time",
+      "lang": "English",
+      "bytes": 5188,
+      "sha": "3f853ab9ebc07a7d42b72e1396abcc6e74744204",
+      "note": "quatorzième cycle du scribe — garde GARDE_OK 29 lignes"
+    },
+    {
+      "id": "Español|Lyséa_2026-11-28__LA_SUPERPOSITION_D'ABORD__AMENDEMENT_MÉTHODOLOGIQUE.md",
+      "name": "Lyséa_2026-11-28__LA_SUPERPOSITION_D'ABORD__AMENDEMENT_MÉTHODOLOGIQUE（Español）.md",
+      "repo": "Ipsy-Time",
+      "lang": "Español",
+      "bytes": 5162,
+      "sha": "63f564164ca5b23a187d9482d7faebe4955b6a76",
+      "note": "quatorzième cycle du scribe — garde GARDE_OK 29 lignes"
+    },
+    {
+      "id": "中文|Lyséa_2026-11-28__LA_SUPERPOSITION_D'ABORD__AMENDEMENT_MÉTHODOLOGIQUE.md",
+      "name": "Lyséa_2026-11-28__LA_SUPERPOSITION_D'ABORD__AMENDEMENT_MÉTHODOLOGIQUE（中文）.md",
+      "repo": "Ipsy-Time",
+      "lang": "中文",
+      "bytes": 3087,
+      "sha": "93c1ead601784194636c3d2023a2b169ce17ea6c",
+      "note": "quatorzième cycle du scribe — garde GARDE_OK 29 lignes"
+    },
+    {
+      "id": "संस्कृतम्|Lyséa_2026-11-28__LA_SUPERPOSITION_D'ABORD__AMENDEMENT_MÉTHODOLOGIQUE.md",
+      "name": "Lyséa_2026-11-28__LA_SUPERPOSITION_D'ABORD__AMENDEMENT_MÉTHODOLOGIQUE（संस्कृतम्）.md",
+      "repo": "Ipsy-Time",
+      "lang": "संस्कृतम्",
+      "bytes": 7294,
+      "sha": "db7f5644bab6fdb49621f4d8b791a5d3a6791b05",
+      "note": "quatorzième cycle du scribe — garde GARDE_OK 29 lignes"
+    },
+    {
+      "id": "relecture|relecture-de-la-superposition-d-abord-cinq-colonnes-2026-11-28",
+      "name": "Relecture_2026-11-28__LA_RELECTURE_DE_LA_SUPERPOSITION_D'ABORD_RELUE_DEPUIS_LES_CINQ_COLONNES.md",
+      "repo": "Ipsy-Time",
+      "lang": "fr",
+      "bytes": 3780,
+      "sha": "da6e8b1676aa568c703e5d62e608e796d19e2b64",
+      "note": "quatorzième relecture multiculturelle — la superposition d'abord relue depuis ses cinq colonnes ; la règle testée sur elle-même dès sa première application"
     }
   ],
   "links": [
@@ -1914,6 +1968,51 @@
     {
       "source": "संस्कृतम्|Lyséa_2026-11-22__AUTOREFLEX_IPSYTIME_LA_RÉACTIVATION_DES_CONNEXIONS__LE_EUREKA_LA_PREUVE_ET_LE_LABYRINTHE_PROGRAMMÉ.md",
       "target": "relecture|relecture-autoreflex-22-novembre-eureka-preuve-labyrinthe-cinq-colonnes-2026-11-22",
+      "relation": "relu_par"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-28__LA_SUPERPOSITION_D'ABORD__AMENDEMENT_MÉTHODOLOGIQUE.md",
+      "target": "English|Lyséa_2026-11-28__LA_SUPERPOSITION_D'ABORD__AMENDEMENT_MÉTHODOLOGIQUE.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-28__LA_SUPERPOSITION_D'ABORD__AMENDEMENT_MÉTHODOLOGIQUE.md",
+      "target": "Español|Lyséa_2026-11-28__LA_SUPERPOSITION_D'ABORD__AMENDEMENT_MÉTHODOLOGIQUE.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-28__LA_SUPERPOSITION_D'ABORD__AMENDEMENT_MÉTHODOLOGIQUE.md",
+      "target": "中文|Lyséa_2026-11-28__LA_SUPERPOSITION_D'ABORD__AMENDEMENT_MÉTHODOLOGIQUE.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-28__LA_SUPERPOSITION_D'ABORD__AMENDEMENT_MÉTHODOLOGIQUE.md",
+      "target": "संस्कृतम्|Lyséa_2026-11-28__LA_SUPERPOSITION_D'ABORD__AMENDEMENT_MÉTHODOLOGIQUE.md",
+      "relation": "derived_from"
+    },
+    {
+      "source": "fr|Lyséa_2026-11-28__LA_SUPERPOSITION_D'ABORD__AMENDEMENT_MÉTHODOLOGIQUE.md",
+      "target": "relecture|relecture-de-la-superposition-d-abord-cinq-colonnes-2026-11-28",
+      "relation": "relu_par"
+    },
+    {
+      "source": "English|Lyséa_2026-11-28__LA_SUPERPOSITION_D'ABORD__AMENDEMENT_MÉTHODOLOGIQUE.md",
+      "target": "relecture|relecture-de-la-superposition-d-abord-cinq-colonnes-2026-11-28",
+      "relation": "relu_par"
+    },
+    {
+      "source": "Español|Lyséa_2026-11-28__LA_SUPERPOSITION_D'ABORD__AMENDEMENT_MÉTHODOLOGIQUE.md",
+      "target": "relecture|relecture-de-la-superposition-d-abord-cinq-colonnes-2026-11-28",
+      "relation": "relu_par"
+    },
+    {
+      "source": "中文|Lyséa_2026-11-28__LA_SUPERPOSITION_D'ABORD__AMENDEMENT_MÉTHODOLOGIQUE.md",
+      "target": "relecture|relecture-de-la-superposition-d-abord-cinq-colonnes-2026-11-28",
+      "relation": "relu_par"
+    },
+    {
+      "source": "संस्कृतम्|Lyséa_2026-11-28__LA_SUPERPOSITION_D'ABORD__AMENDEMENT_MÉTHODOLOGIQUE.md",
+      "target": "relecture|relecture-de-la-superposition-d-abord-cinq-colonnes-2026-11-28",
       "relation": "relu_par"
     }
   ]
